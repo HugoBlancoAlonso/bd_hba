@@ -112,4 +112,4 @@ nombres = [
 #     if num in l2:
 #         l3.append(num)
 
-# print(l3)
+# print(l3)    

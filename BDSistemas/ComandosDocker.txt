@@ -1,0 +1,17 @@
+docker image pull ubuntu/apache2 (Descargar imgen)
+
+docker image list (Mostrar imágenes descargadas)
+
+docker rm ubuntu/apache2 (Borrar container)
+
+docker rmi ubuntu/apache2 (Borrar image)
+
+docker run -i -t ubuntu /bin/bash (Correr container y entrar en la terminal de Linux)
+
+docker run -it --rm ubuntu /bin/bash (Correr container y al cerrar eliminarlo)
+
+docker run --rm -v .:/usr/share/nginx/html -p 8089:80 nginx (Conectarse a un servidor nginx, si no tiene la image la descarga)
+
+docker run --rm -p 3306:3306 -e MYSQL_ROOT_PASSWORD=paso -e MYSQL_DATABASE=Pruebas MySQL (Conectarse a un MySQL, si no tiene la image la descarga)
+
+docker run --rm -p 8090:80 -e PMA_HOST=host.docker.internal -e PMA_PORT=3306 phpmyadmin/phpmyadmin (Interconecta MySQL con phpmyadmin)

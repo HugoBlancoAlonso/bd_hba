@@ -134,45 +134,115 @@
 
 # 8
 
-departamentos = {
-    "Recursos Humanos": {
-        "Ana": "Gerente de Recursos Humanos",
-        "Luis": "Especialista en Reclutamiento",
-        "Elena": "Asistente de Recursos Humanos"
-    },
-    "Tecnología": {
-        "Carlos": "Desarrollador Backend",
-        "María": "Desarrolladora Frontend",
-        "Pedro": "Administrador de Sistemas"
-    },
-    "Marketing": {
-        "Sofía": "Directora de Marketing",
-        "Jorge": "Especialista en SEO",
-        "Laura": "Community Manager"
-    },
-    "Finanzas": {
-        "Juan": "Analista Financiero",
-        "Lucía": "Contadora",
-        "Raúl": "Asesor Financiero"
-    }
-}
+# departamentos = {
+#     "Recursos Humanos": {
+#         "Ana": "Gerente de Recursos Humanos",
+#         "Luis": "Especialista en Reclutamiento",
+#         "Elena": "Asistente de Recursos Humanos"
+#     },
+#     "Tecnología": {
+#         "Carlos": "Desarrollador Backend",
+#         "María": "Desarrolladora Frontend",
+#         "Pedro": "Administrador de Sistemas"
+#     },
+#     "Marketing": {
+#         "Sofía": "Directora de Marketing",
+#         "Jorge": "Especialista en SEO",
+#         "Laura": "Community Manager"
+#     },
+#     "Finanzas": {
+#         "Juan": "Analista Financiero",
+#         "Lucía": "Contadora",
+#         "Raúl": "Asesor Financiero"
+#     }
+# }
 
-op = 0
+# op = 0
 
-while op < 3:
-    print("1. Lista de empleados de un departamento")
-    print("2. Añadir un empleado a un departamento")
-    print("3. Eliminar empleado")
-    print("4. Salir")
+# while op <= 3:
+#     print("1. Lista de empleados de un departamento")
+#     print("2. Añadir un empleado a un departamento")
+#     print("3. Eliminar empleado")
+#     print("4. Salir")
 
-    op = int(input("Elige una opción (1-4): "))
+#     op = int(input("Elige una opción (1-4): "))
 
-    match op:
-        case 1:
-            depart = input("Introduce el nombre del departamento: ").strip().title()
-            if depart in departamentos:
-                print(f"Empleados en {depart}:")
-                for empleado, puesto in departamentos[depart].items():
-                    print(f"- {empleado}: {puesto}")
-            else:
-                print("No existe ese departamento")
+#     match op:
+#         case 1:
+#             depart = input("Introduce el nombre del departamento: ").strip().title()
+#             if depart in departamentos:
+#                 print(f"Empleados en {depart}:")
+#                 for empleado, puesto in departamentos[depart].items():
+#                     print(f"- {empleado}: {puesto}")
+#             else:
+#                 print("No existe ese departamento")
+#         case 2:
+#             departamento = input("A que departamento lo quieres añadir: ").strip().title()
+#             nombre = input("Nombre del trabajador: ").strip().title()
+#             puesto = input("Puesto del trabajador: ").strip().title()
+
+#             if departamento in departamentos:
+#                 departamentos[departamento][nombre] = puesto
+#                 print("Empleado añadido")
+#             else:
+#                 print("No existe ese departamento")
+#         case 3: 
+#             departamento = input("En que departamento se encuentra el emprleado: ").strip().title()
+#             nombre = input("Nombre del trabajador: ").strip().title()
+#             puesto = input("Puesto de trabajador: ").strip().title()
+
+#             if departamento in departamentos:
+#                 if nombre in departamentos[departamento] and departamentos[departamento][nombre] == puesto:
+#                     departamentos[departamento].pop(nombre)
+#                     print("Empleado eliminado")
+#                 else:
+#                     print("No existe ese empleado")
+#             else:
+#                 print("No existe ese departamento")
+
+
+
+
+# 9
+
+
+# estudiantes = {
+#     "Ana": {"Matemáticas": 8.5, "Física": 9.0, "Programación": 7.8},
+#     "Carlos": {"Matemáticas": 9.2, "Física": 8.8, "Programación": 9.4},
+#     "Luis": {"Matemáticas": 7.6, "Física": 8.0, "Programación": 8.5},
+#     "María": {"Matemáticas": 9.5, "Física": 10.0, "Programación": 9.8},
+#     "Jorge": {"Matemáticas": 8.8, "Física": 8.4, "Programación": 7.9},
+#     "Sofía": {"Matemáticas": 9.1, "Física": 8.9, "Programación": 9.3}
+# }
+
+# mediasAlumnos = {}
+# mediasAsignaturas = {}
+
+# for alumno, notas in estudiantes.items():
+#     media = sum(notas.values()) / len(notas)
+#     mediasAlumnos[alumno] = media
+# print(mediasAlumnos)
+
+
+# for alumno, notas in estudiantes.items():
+#     for asig, nota in notas.items():
+#         if asig in mediasAsignaturas:
+#             mediasAsignaturas[asig] = mediasAsignaturas[asig] + nota
+#         else:
+#             mediasAsignaturas[asig] = nota
+# for asig, notas in mediasAsignaturas.items():
+#     print(mediasAsignaturas[asig] / len(estudiantes))
+#     mediasAsignaturas[asig] = mediasAsignaturas[asig] / len(estudiantes)
+# print(mediasAsignaturas)
+
+
+# 10
+
+# num = int(input("Cuantos numeros quieres tener: "))
+
+# dic = {}
+
+# for n in range(num):
+#     dic[n+1] = (n+1)**2
+
+# print(dic)

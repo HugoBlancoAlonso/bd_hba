@@ -1,0 +1,23 @@
+ - docker exec -it redis-server redis-cli (entrar en el cliente de redis)
+
+- INFO
+
+- CONFIG GET 
+	- maxclientes
+	- server-threads (hilos que usa)
+	- timeout (tiempo antes de cerrar sesión)
+	- tcp-keepalive
+	- maxmemory
+	- bind (interfaces en las que escucha redis)
+
+- CONFIG SET (MODIFICAR)
+
+- SELECT (CAMBIAR DE BASE DE DATOS)
+
+- DBSIZE
+
+- FLUSHDB (BORRA LOS DATOS DE LA DB ACTUAL)
+- FLUSHALL
+
+- CLIENT LIST
+- CLIENT KILL <ID>
