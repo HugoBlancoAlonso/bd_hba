@@ -3,7 +3,6 @@ import sys
 
 current_word = None
 current_count = 0
-first = True
 
 for line in sys.stdin:
     word, count = line.strip().split("\t", 1)
