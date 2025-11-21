@@ -2,9 +2,9 @@
 
 ## Pruebas
 
-- [Contar palabras](./cluesterHadoop/notebooks/pruebas/contar_palabras/Prueba.ipynb)
-- [Indice invertido](./cluesterHadoop/notebooks/pruebas/indice_invertido/indice_invertido.ipynb)
+- [Contar palabras](./clusterHadoop/notebooks/pruebas/contar_palabras/contar_palabras.md)
+- [Indice invertido](./clusterHadoop/notebooks/pruebas/indice_invertido/indice_invertido.md)
 
 ## Prácticas
 
-- [Datos del clima](./cluesterHadoop/notebooks/practicas/pr402/pr402.ipynb)
+<!-- - [Datos del clima](./clusterHadoop/notebooks/practicas/pr402/pr402.md) -->
