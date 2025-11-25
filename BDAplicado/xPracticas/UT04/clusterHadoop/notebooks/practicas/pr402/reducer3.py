@@ -42,5 +42,5 @@ for line in sys.stdin:
         else:
             count = 0
 
-if ciudad is not None:
+if c_ciudad is not None:
     print(f"{ciudad} ({c_año}) ---> {count}")

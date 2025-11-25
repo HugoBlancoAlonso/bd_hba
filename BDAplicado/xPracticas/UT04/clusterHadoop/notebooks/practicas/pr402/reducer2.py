@@ -30,5 +30,5 @@ for line in sys.stdin:
         total = c_temp
         count = 1
         
-if pais is not None:
+if c_pais is not None:
     print(f"{pais} ---> {media:.2f}")
