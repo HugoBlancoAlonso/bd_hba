@@ -7,4 +7,4 @@
 
 ## Prácticas
 
-<!-- - [Datos del clima](./clusterHadoop/notebooks/practicas/pr402/pr402.md) -->
+- [Datos del clima](./clusterHadoop/notebooks/practicas/pr402/pr402.md)

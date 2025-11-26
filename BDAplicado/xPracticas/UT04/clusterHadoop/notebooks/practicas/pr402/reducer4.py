@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import sys
-import numpy as np
 
 region = None
 c_region = None
@@ -11,9 +10,13 @@ min = 10000
 
 for line in sys.stdin:
     line = line.strip().split("\t", 1)
-    region = line[0]
-    temp = float(line[1])
 
+    if len(line) == 2:
+        region = line[0]
+        temp = float(line[1])
+    else:
+        continue
+    
     if c_region == None:
         c_region = region
         max = temp
