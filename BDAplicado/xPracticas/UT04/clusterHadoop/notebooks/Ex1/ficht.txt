@@ -1,0 +1,19 @@
+Action: 2752
+Adventure: 1890
+Animation: 1468
+Comedy: 2943
+Family: 1407
+Science Fiction: 1261
+Romance: 1576
+Crime: 1272
+Mystery: 862
+Drama: 3812
+Fantasy: 1382
+Horror: 1554
+Thriller: 2605
+War: 282
+Western: 131
+TV Movie: 212
+History: 422
+Documentary: 217
+Music: 277
