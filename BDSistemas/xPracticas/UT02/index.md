@@ -10,3 +10,4 @@
 ## InfluxDB
 
 - [pr205](./pr205.md)
+- [pr206](./pr206.md)
