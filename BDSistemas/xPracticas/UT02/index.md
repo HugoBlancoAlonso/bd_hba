@@ -2,12 +2,12 @@
 
 ## Redis
 
-- [pr201](./pr201.md)
-- [pr202](./pr202.md)
-- [pr203](./pr203.md)
-- [pr204](./pr204.md)
+- [Cadenas en Redis](./pr201.md)
+- [Listas en Redis](./pr202.md)
+- [Estructuras avanzadas en Redis](./pr203.md)
+- [Datos geoespaciales en Redis](./pr204.md)
 
 ## InfluxDB
 
-- [pr205](./pr205.md)
-- [pr206](./pr206.md)
+- [Escritura de datos en InfluxDB](./pr205.md)
+- [Ingesta de datos en InfluxDB](./pr206.md)
