@@ -7,7 +7,7 @@ mayorv = 0
 año = 0
 
 for line in sys.stdin:
-    line = line.strip().split()
+    line = line.strip().split("\t")
 
     pais = line[0]
     yv = line[1]
