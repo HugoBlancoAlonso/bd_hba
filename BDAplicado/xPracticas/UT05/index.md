@@ -1,9 +1,9 @@
 # Procesamiento distribuido con Spark
 
-## Prueba
+## Pruebas
 
-- [Teoria](./spark/notebooks/pruebas/prueba1.md)
+- [Teoria 1](./spark/notebooks/pruebas/prueba1.md)
 
-## Practicas
+## Prácticas
 
--[Carga de ficheros CSV en PySpark](./spark/notebooks/practicas/pr501/pr501.md)
+- [Carga de ficheros CSV en PySpark](./spark/notebooks/practicas/pr501/pr501.md)
