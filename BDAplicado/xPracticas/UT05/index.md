@@ -10,6 +10,7 @@
 - [Manipulación básica de dataframes](./spark/notebooks/practicas/pr502/pr502.md)
 - [Limpieza de datos sobre dataset de cultivos](./spark/notebooks/practicas/pr503/pr503.md)
 - [Limpieza de datos sobre dataset de luhares famosos](./spark/notebooks/practicas/pr504/pr504.md)
+- [Datos estadísticos](./spark/notebooks/practicas/pr505/pr505.md)
 
   
   
