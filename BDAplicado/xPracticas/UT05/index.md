@@ -11,6 +11,7 @@
 - [Limpieza de datos sobre dataset de cultivos](./spark/notebooks/practicas/pr503/pr503.md)
 - [Limpieza de datos sobre dataset de luhares famosos](./spark/notebooks/practicas/pr504/pr504.md)
 - [Datos estadísticos](./spark/notebooks/practicas/pr505/pr505.md)
+- [Comportamiento usuarios Netflix](./spark/notebooks/practicas/pr506/pr506.md)
 
   
   
