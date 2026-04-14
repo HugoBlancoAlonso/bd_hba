@@ -1,0 +1,1001 @@
+id_alojamiento,nombre_local,descripcion_categoria,precio_noche,num_habitaciones,ciudad,puntuacion
+1,lOfT vIstas Al MaR,z - Habitacion,140.87,2,Bilbao,
+2,ATiCO luminOsO,y - Casa Rural,125.30,4,Sevilla,4.0
+3,aTICo lUmInoSo,x - Estudio,58.50,2,Madrid,4.3
+4,aTicO luMiNoSo,x - Loft,159.47,4,Sevilla,2.9
+5,piSo En eL CeNTRo,z - Habitacion,171.40,4,Sevilla,
+6,pISo eN El CENTRo,x - Estudio,72.83,2,Sevilla,3.8
+7,hAbiTaCIOn ComparTida,x - Estudio,86.30,3,Valencia,4.5
+8,LoFt vistaS AL mAR,x - Estudio,99.61,4,Madrid,2.5
+9,lOfT VIstas al Mar,z - Habitacion,138.08,1,Valencia,3.3
+10,ESTudIO acoGEDoR,x - Apartamento,112.38,4,Barcelona,4.8
+11,ApaRtAMEnTO reFORmADo,x - Apartamento,144.80,2,Barcelona,4.3
+12,EsTuDIo ACogedoR,y - Casa Rural,127.50,4,Barcelona,3.1
+13,LoFT vIstAs AL MaR,y - Casa Rural,169.57,3,Valencia,4.0
+14,APaRTaMeNto RefORmado,x - Estudio,94.45,2,Valencia,
+15,DUPLEX moDeRNO,y - Casa Rural,173.31,2,Bilbao,3.9
+16,loFt VIstAs Al mAR,z - Habitacion,110.93,4,Barcelona,
+17,loFT vistAs Al mAr,y - Villa,34.76,3,Bilbao,3.0
+18,PISO En el cEntro,x - Apartamento,79.01,1,Bilbao,3.6
+19,AtIco lUmINoSO,x - Loft,90.10,3,León,2.8
+20,cHaLEt CoN pIsCIna,x - Apartamento,101.79,3,Sevilla,4.2
+21,APaRtAmentO reFORmADO,y - Casa Rural,103.47,1,Sevilla,
+22,villa De lUJO excluSIVa,y - Villa,162.74,1,Madrid,3.4
+23,piSo En eL CENtro,x - Loft,64.55,3,Sevilla,
+24,Piso EN El CEnTro,x - Estudio,128.11,3,Valencia,4.2
+25,DupLeX mODerNO,y - Villa,134.02,1,Valencia,2.9
+26,aTiCo LUmiNOso,z - Habitacion,178.71,3,Sevilla,4.2
+27,apartaMEntO reforMAdO,x - Loft,74.30,3,Madrid,3.3
+28,PIso eN el cEnTro,y - Villa,35.86,2,Madrid,4.1
+29,cHALeT cON PiSciNA,z - Habitacion,78.47,2,Bilbao,
+30,CHAlET cOn pISCIna,y - Casa Rural,120.40,3,Barcelona,4.1
+31,cHalET CON PisCina,y - Villa,115.05,3,Madrid,
+32,aTICO LUMiNOSO,z - Habitacion,152.90,4,Madrid,3.0
+33,dUpleX ModeRNo,y - Casa Rural,39.69,2,León,3.3
+34,DUpLEx MODeRNo,x - Estudio,162.19,2,Bilbao,2.6
+35,CAsA tRaDiciOnAL,x - Loft,105.24,2,Madrid,3.8
+36,HabitacIoN cOMPARtidA,y - Casa Rural,163.45,4,Madrid,3.0
+37,VIlla dE LUJo ExCLusivA,x - Apartamento,59.09,2,Bilbao,3.7
+38,aPARtAMENto REfoRmado,x - Loft,52.02,2,Valencia,3.8
+39,chAlET Con PISCina,y - Casa Rural,66.23,3,Valencia,3.7
+40,piSO EN EL CEntRO,y - Casa Rural,166.64,4,Valencia,4.8
+41,chaLeT Con PiScIna,y - Villa,103.63,3,León,
+42,aPaRTAmeNto reforMAdo,y - Casa Rural,83.47,4,Valencia,4.4
+43,CAsA TRadicioNal,x - Loft,104.36,4,Barcelona,2.6
+44,ChaLET CON pIsciNa,y - Casa Rural,71.97,4,Sevilla,4.4
+45,habiTACIOn COMPaRTIda,y - Villa,68.31,3,Sevilla,
+46,HabITaciON cOmPARtIdA,y - Villa,51.52,1,Bilbao,2.5
+47,APARTamENtO refORmadO,x - Apartamento,139.10,3,León,4.5
+48,viLla dE lUJO ExclusIVA,x - Loft,99.64,3,León,3.1
+49,duPlex moDErno,z - Habitacion,115.34,4,León,4.3
+50,hABitaCION compARtiDA,y - Casa Rural,76.61,3,Sevilla,3.5
+51,chALEt Con PiscINA,y - Villa,123.86,2,Valencia,2.8
+52,aPaRTAmentO reFORmADo,y - Casa Rural,77.41,1,Barcelona,3.9
+53,lofT VistAS al mar,y - Casa Rural,114.31,2,León,4.5
+54,chaLET CoN PiscINA,x - Loft,172.81,1,Valencia,
+55,AtiCO luMINOSO,x - Apartamento,75.63,3,Bilbao,3.7
+56,EstuDIO ACoGeDor,z - Habitacion,113.13,4,Sevilla,2.6
+57,APartAMENTo reFoRMAdo,x - Estudio,107.26,4,Sevilla,4.5
+58,atIcO LUMINoso,z - Habitacion,169.98,3,Sevilla,3.2
+59,ChalET COn PIScina,y - Villa,103.32,4,Sevilla,3.2
+60,duPlEX MODErnO,x - Apartamento,42.29,1,Barcelona,2.7
+61,hAbITaCIOn ComPaRTIdA,x - Loft,85.20,3,Sevilla,3.4
+62,ViLlA de LUjo eXCluSIva,z - Habitacion,86.44,2,Sevilla,3.7
+63,Piso En EL CENTro,x - Estudio,52.18,1,León,5.0
+64,APArtAMEnTO reFormADo,x - Estudio,132.96,3,Bilbao,
+65,PIsO en El CentRo,x - Estudio,129.10,3,Madrid,
+66,HabiTAcIon compARtida,y - Casa Rural,57.21,3,León,4.5
+67,pISO En El cENTRo,y - Villa,104.80,3,Bilbao,4.4
+68,PisO eN el CeNTRO,x - Loft,66.28,4,Valencia,3.2
+69,hAbitACION comPArtiDA,z - Habitacion,54.65,2,Barcelona,3.1
+70,atIcO LUmINoSO,y - Casa Rural,159.45,1,Valencia,3.2
+71,dUpLEX ModErno,x - Apartamento,83.32,1,Madrid,
+72,ChaLEt Con pisCInA,x - Loft,34.49,2,Bilbao,3.5
+73,Villa De lUjO eXClusIVa,x - Apartamento,94.07,4,Valencia,2.9
+74,pISo EN el ceNtro,z - Habitacion,158.44,3,Madrid,3.5
+75,cASa tRADICIoNAl,y - Villa,118.78,3,Bilbao,3.1
+76,APaRTAmeNto REFORMado,x - Estudio,176.25,1,Sevilla,
+77,CHalET CoN pISCINa,y - Villa,65.21,4,Valencia,4.6
+78,ChaLet Con PIscinA,y - Villa,90.14,1,León,3.1
+79,CHaleT con PiScina,x - Apartamento,72.09,3,Sevilla,2.6
+80,ViLLA dE lujo ExclUsIvA,y - Villa,157.34,3,Sevilla,3.6
+81,dupLex MoDerNO,y - Casa Rural,60.63,3,Madrid,4.8
+82,apaRTAmENTO rEFORMado,x - Loft,57.37,4,Barcelona,2.6
+83,LoFT Vistas aL MaR,x - Loft,154.41,3,Bilbao,3.7
+84,ATico lUMINOso,y - Casa Rural,145.47,1,Sevilla,4.5
+85,aTicO LumINoSo,x - Estudio,126.90,3,Bilbao,
+86,APaRtAMENTO REfoRMado,y - Casa Rural,168.76,3,León,5.0
+87,pIso en EL CEntrO,x - Apartamento,113.31,1,León,4.3
+88,PisO eN EL ceNtro,x - Estudio,68.00,3,Valencia,4.9
+89,hABItACIon COmPARtiDa,x - Estudio,58.20,4,Bilbao,3.4
+90,CaSa trAdICIonAl,x - Loft,89.19,2,Bilbao,3.6
+91,vilLA dE lUJo eXcLusiVa,y - Villa,112.60,3,Sevilla,2.9
+92,HabITACiOn cOMPaRtIDa,z - Habitacion,130.91,3,Sevilla,2.5
+93,vIllA DE LuJO eXclUsiVa,z - Habitacion,113.40,1,León,3.8
+94,CHAlET CON PiscIna,y - Casa Rural,68.63,4,Sevilla,3.4
+95,duPLex moDeRnO,x - Loft,57.71,2,Valencia,4.1
+96,DUplEx ModERNO,y - Casa Rural,57.98,1,Barcelona,4.3
+97,VilLa De luJO ExclusIVA,x - Apartamento,54.49,3,Bilbao,3.5
+98,atICo lUMiNoSO,x - Loft,158.59,4,Bilbao,3.3
+99,pIsO EN eL CENtrO,z - Habitacion,153.23,1,Bilbao,4.7
+100,PisO EN eL cEntRO,y - Villa,66.67,2,Valencia,3.2
+101,chAlEt coN PISCinA,x - Apartamento,34.09,4,Bilbao,
+102,pISO En eL cENTRO,x - Loft,42.81,4,León,2.8
+103,atICO luMiNoso,x - Estudio,61.24,4,Bilbao,2.7
+104,PISO En eL cEntro,x - Apartamento,40.15,3,León,4.7
+105,hAbitacIon COmpARtiDa,z - Habitacion,59.76,2,León,3.1
+106,CAsA TraDICiOnaL,y - Villa,135.84,2,Sevilla,
+107,CHalET COn pIScinA,x - Apartamento,103.95,2,León,2.9
+108,atiCo LuMiNoSO,z - Habitacion,158.10,1,Sevilla,3.6
+109,HABiTAcion compARTiDA,y - Casa Rural,43.11,1,León,3.9
+110,eStuDIO ACOGEdor,x - Apartamento,40.77,1,Valencia,4.0
+111,lOft VIstAS Al Mar,x - Loft,62.75,2,Sevilla,2.6
+112,pISo EN eL ceNTro,y - Villa,50.63,4,Sevilla,4.5
+113,pIsO en El centRo,x - Loft,68.41,3,Barcelona,4.6
+114,EstudIO aCOgedoR,y - Casa Rural,81.78,1,Madrid,
+115,ATico lumInOso,x - Loft,32.29,1,León,2.6
+116,LOFT ViSTAS aL Mar,y - Villa,34.03,3,Sevilla,
+117,pISo eN eL cEnTro,x - Apartamento,69.22,2,Valencia,3.9
+118,vILlA de lujO exClUsiVa,y - Casa Rural,106.72,2,Bilbao,
+119,AtiCo LUMiNOso,x - Loft,123.50,2,Barcelona,4.0
+120,LOfT VIstAs AL MAr,x - Apartamento,164.48,2,Barcelona,3.9
+121,Loft vistAS AL mAr,y - Villa,97.63,3,León,4.9
+122,chalEt CoN PiscIna,y - Casa Rural,78.65,3,Barcelona,5.0
+123,PIso en el CENTro,x - Loft,140.58,3,Sevilla,4.5
+124,chalET cON PIscINa,z - Habitacion,143.89,2,Valencia,4.8
+125,HabiTaciOn COMpArTIdA,y - Villa,138.97,4,Valencia,3.5
+126,CASa trADICionAl,z - Habitacion,170.35,2,Madrid,2.7
+127,aTIco lUMINOsO,z - Habitacion,38.95,1,León,
+128,PIso EN EL cEntro,y - Villa,141.20,3,Bilbao,4.9
+129,PisO eN EL cENtro,x - Apartamento,47.09,4,Valencia,3.6
+130,ATicO LumiNoSo,z - Habitacion,139.69,2,Barcelona,2.7
+131,ApARtaMEnTO REFormAdO,z - Habitacion,136.77,2,Barcelona,4.7
+132,chaLEt CON pIScInA,z - Habitacion,108.97,2,Barcelona,4.0
+133,lOFT ViSTaS AL MaR,x - Estudio,170.22,4,León,4.9
+134,HabitACIoN coMPArtIda,y - Casa Rural,31.36,2,Barcelona,3.2
+135,chALEt CON PISCiNA,x - Apartamento,128.75,4,Sevilla,2.5
+136,PISO eN eL CEnTro,x - Loft,147.59,1,Madrid,4.7
+137,PIsO eN el CENTRo,z - Habitacion,52.95,2,Valencia,3.5
+138,dUplEX MODeRNo,y - Casa Rural,110.30,2,Bilbao,4.4
+139,aTiCO LUmInOso,x - Apartamento,69.53,2,Sevilla,4.7
+140,atIcO lUmInOsO,y - Casa Rural,85.42,3,León,
+141,hABiTAcIOn cOMpaRtidA,y - Casa Rural,66.12,4,Barcelona,4.0
+142,aPArtaMentO ReFoRMADo,z - Habitacion,114.34,1,Madrid,4.1
+143,eSTudIo AcogEdoR,x - Apartamento,123.33,4,Madrid,2.6
+144,PISO en El CEnTRo,y - Villa,36.29,2,León,2.8
+145,APaRTaMentO rEformadO,x - Estudio,167.94,3,Bilbao,3.1
+146,APartAmentO RefoRmADo,x - Estudio,80.81,3,Valencia,4.9
+147,ApartAMEnTO REfORmAdo,z - Habitacion,51.31,4,Barcelona,4.8
+148,hAbITaciOn coMpartIDA,y - Villa,92.22,3,Barcelona,3.3
+149,cHalet Con PiSciNa,x - Apartamento,64.20,1,Bilbao,4.7
+150,habitaciON cOmPArtIdA,x - Apartamento,51.97,4,Barcelona,4.8
+151,apARtamENto rEForMadO,x - Apartamento,102.64,4,León,4.4
+152,EstUDio ACogEdOR,x - Loft,119.60,4,Valencia,2.8
+153,PiSO en el ceNTrO,y - Villa,37.71,2,Bilbao,3.9
+154,LoFt ViSTaS Al MaR,x - Apartamento,156.81,3,Sevilla,4.6
+155,LoFT ViStAs aL mar,x - Apartamento,69.68,1,Madrid,
+156,DupLEx MOdERno,x - Estudio,102.40,2,Barcelona,4.3
+157,ApaRtAmeNTO refOrmAdO,z - Habitacion,50.34,2,León,3.9
+158,hABItACion CompArTida,x - Estudio,69.55,4,Barcelona,2.9
+159,piSo en eL Centro,y - Villa,146.17,3,Madrid,3.3
+160,LoFt VIstAS AL Mar,x - Apartamento,117.15,2,Madrid,4.6
+161,piSo en eL CeNTRO,z - Habitacion,162.82,3,Madrid,3.8
+162,vIllA de LUJO ExclUSiVa,x - Estudio,137.59,2,Sevilla,3.8
+163,cHaLET cON PIsCina,x - Apartamento,128.55,3,León,4.0
+164,pisO En EL CentrO,x - Loft,36.65,3,Sevilla,3.5
+165,lOFt vistaS al mar,y - Casa Rural,55.68,3,Barcelona,2.9
+166,PIsO EN el CENTRO,x - Loft,117.46,3,Madrid,2.5
+167,ChaLEt Con PISCIna,y - Villa,159.60,1,Valencia,4.7
+168,casa TRADicIonaL,x - Apartamento,79.68,4,Madrid,4.8
+169,pISO En El CentRO,x - Loft,146.45,4,Sevilla,3.8
+170,piSo eN El CeNtRO,x - Estudio,30.10,4,Sevilla,4.4
+171,apArTAmENTo reFORMadO,z - Habitacion,45.91,1,Valencia,
+172,LOFt vistas AL MAR,z - Habitacion,118.50,1,Valencia,
+173,CASA TRAdIcIONAl,x - Apartamento,65.28,2,Valencia,4.9
+174,CHaLet CON pIScina,x - Loft,87.26,3,Madrid,3.0
+175,atIcO LUMinOSo,y - Casa Rural,147.92,4,León,2.9
+176,lOft ViSTas AL MaR,y - Casa Rural,88.57,4,Bilbao,4.9
+177,lOft VIsTAs Al mAR,y - Villa,31.34,4,Barcelona,2.6
+178,CASA tradIcIoNAl,x - Loft,121.42,3,Valencia,2.5
+179,hABitACIoN COmPARTIdA,z - Habitacion,78.97,3,Barcelona,3.8
+180,APaRtAMeNTo ReforMAdo,y - Villa,92.33,4,Bilbao,4.5
+181,Casa tRaDIcIoNAL,x - Estudio,176.66,4,Barcelona,5.0
+182,PISO en EL CENtRo,y - Casa Rural,96.16,2,León,
+183,VILlA dE lUJo excLUSivA,y - Casa Rural,54.41,2,Bilbao,2.8
+184,pisO en el CeNTRO,y - Villa,124.54,3,Madrid,
+185,VIlLA DE LUjO EXCLUSiVA,y - Villa,3758.99,8,Sevilla,2.6
+186,vILLA dE LujO exclUsIvA,x - Apartamento,166.99,3,Madrid,5.0
+187,ESTudiO acOGedOr,z - Habitacion,133.05,3,Barcelona,
+188,ChAlET cON pisCINa,y - Casa Rural,84.02,3,Madrid,
+189,APartAMENtO reFOrmadO,y - Villa,42.65,4,Sevilla,
+190,atiCO LuMINOSo,y - Casa Rural,160.95,2,Valencia,4.0
+191,aTIco LUmINoSo,x - Loft,88.18,2,Valencia,3.2
+192,cHaLET CoN PiScInA,x - Estudio,111.94,1,Barcelona,4.6
+193,HabitacioN COmpaRtIda,z - Habitacion,93.73,2,Madrid,3.9
+194,aTICo LUminOso,y - Villa,138.59,2,Valencia,4.1
+195,duPlEX MOdERno,y - Casa Rural,118.59,2,Sevilla,
+196,haBITAcIon ComparTIda,x - Estudio,75.63,1,Barcelona,2.7
+197,ApARtAmenTO REfOrMADO,x - Loft,172.71,1,Madrid,4.7
+198,EstuDiO aCogEdOR,z - Habitacion,117.69,2,Madrid,
+199,ChaLet coN PIscINA,x - Apartamento,86.50,4,Valencia,4.7
+200,dUplex mODERNo,y - Villa,158.98,1,Sevilla,4.1
+201,esTuDiO AcoGeDoR,x - Estudio,165.37,3,Madrid,4.8
+202,VIlLA DE LuJo EXcluSIvA,y - Villa,146.87,4,León,4.3
+203,chaLet Con PIscinA,y - Villa,95.71,1,Sevilla,5.0
+204,lofT VISTas Al MaR,x - Loft,168.67,4,Sevilla,3.9
+205,piSO EN el cenTRo,z - Habitacion,179.45,1,Barcelona,3.2
+206,DuPLeX moDERnO,x - Loft,41.01,1,Madrid,4.0
+207,LOFT ViSTAS Al maR,z - Habitacion,139.08,4,Barcelona,3.0
+208,VILLA DE lujo EXClUsIva,x - Estudio,164.19,3,Madrid,3.2
+209,CHaLeT COn PIScina,y - Casa Rural,34.65,2,León,2.7
+210,CaSa TRAdiCiOnal,z - Habitacion,137.85,2,Sevilla,4.0
+211,viLLa De lujo ExClUSiVA,y - Villa,45.43,1,Barcelona,3.9
+212,vILLa de lUjo EXcluSIVA,y - Casa Rural,61.71,4,León,3.8
+213,piso en EL CENtRo,y - Casa Rural,109.17,4,Barcelona,
+214,LOFT ViStAs AL MAr,y - Casa Rural,57.89,1,Barcelona,4.6
+215,EstuDio AcogedOr,y - Casa Rural,124.75,3,Barcelona,2.6
+216,aTicO lUmiNOSo,z - Habitacion,91.44,1,Barcelona,4.2
+217,ESTUdIO AcoGeDor,x - Loft,132.18,3,Barcelona,4.2
+218,PIso eN EL cEntrO,y - Casa Rural,136.61,1,Bilbao,4.4
+219,loFT vIstaS aL mAr,x - Loft,127.20,4,León,2.7
+220,cHaLET COn PiSCinA,x - Estudio,52.39,2,Barcelona,3.5
+221,atIco luminOSo,y - Villa,96.00,4,Barcelona,3.0
+222,Casa tRADICIOnAl,y - Villa,161.78,3,Madrid,
+223,Loft vIStas al mar,z - Habitacion,170.00,3,Sevilla,2.8
+224,CHaLET cOn PISciNa,x - Estudio,171.78,1,Barcelona,
+225,viLLa dE luJO ExCLusiva,z - Habitacion,74.65,1,Madrid,3.9
+226,dupLEX MOderNo,x - Loft,171.50,4,Bilbao,3.3
+227,VIlLA de lUJO ExClusiVa,x - Estudio,94.61,3,León,4.6
+228,hAbItacIOn COmpaRtIda,y - Villa,61.59,1,Bilbao,3.1
+229,HaBItACIon CoMpaRTIda,y - Casa Rural,74.24,2,Sevilla,2.8
+230,ATICO lUMinOSO,y - Villa,128.71,3,Valencia,3.2
+231,APaRtAmENto ReForMAdo,z - Habitacion,50.61,2,Sevilla,3.2
+232,CASA trADIcIoNal,y - Casa Rural,126.50,1,Barcelona,4.0
+233,ChALEt Con piscINa,y - Villa,140.48,2,León,3.6
+234,CHaleT con pIScInA,x - Apartamento,167.62,4,Bilbao,4.0
+235,dUplEx MOdErnO,y - Casa Rural,132.78,4,León,2.6
+236,atico luMinOso,x - Estudio,176.95,1,León,
+237,CHALEt coN PISCinA,z - Habitacion,67.22,4,Barcelona,3.3
+238,dUPLex mODErno,y - Casa Rural,52.41,4,Barcelona,5.0
+239,aPaRTAMeNTO REFORMAdO,z - Habitacion,49.99,3,León,3.4
+240,ApartaMeNTo REFormaDO,x - Estudio,114.19,4,Bilbao,3.4
+241,duplEX mODerNO,x - Apartamento,42.17,4,Valencia,3.2
+242,piSo En EL CenTRo,x - Loft,107.83,4,Bilbao,2.8
+243,viLLa de lUjO eXCLusiva,x - Loft,44.81,2,Madrid,4.6
+244,duPLex modERnO,z - Habitacion,64.52,1,Valencia,3.5
+245,pIso en El CENTro,x - Apartamento,111.94,3,Madrid,4.8
+246,aPaRtamEnTO reFORMado,z - Habitacion,36.71,3,Valencia,
+247,hABITacION cOMpartIDa,y - Villa,30.51,1,Bilbao,3.2
+248,loFt VIsTaS Al MaR,y - Villa,59.93,1,Madrid,2.6
+249,dUPLEx ModERno,x - Apartamento,46.62,2,Valencia,4.5
+250,apaRtAmEnTo RefORMaDo,y - Casa Rural,53.33,2,Barcelona,3.8
+251,aTiCO lumINosO,y - Villa,173.62,1,Madrid,2.7
+252,haBItAcIoN COmParTIdA,x - Estudio,139.11,3,Madrid,4.9
+253,CasA traDICIOnAl,y - Casa Rural,139.51,4,Sevilla,3.8
+254,pISo en EL ceNtrO,x - Apartamento,42.45,2,Valencia,3.0
+255,pISO En el CENTRO,y - Casa Rural,128.58,2,León,4.9
+256,atICo LuMInoSo,y - Casa Rural,102.74,2,Sevilla,5.0
+257,hAbiTaCIon cOmpaRtIDa,y - Villa,54.49,1,León,3.6
+258,APARtamEntO rEforMADO,z - Habitacion,91.37,1,Madrid,4.8
+259,Loft vIStAS Al mAR,x - Estudio,99.32,3,León,
+260,CASA TRAdiCIoNAL,y - Casa Rural,148.60,2,León,
+261,vILla de lUJo exCLUSIvA,y - Casa Rural,142.36,3,Madrid,3.8
+262,LoFt vIstaS Al MAr,z - Habitacion,87.01,2,Bilbao,3.0
+263,atiCo LumInoSO,y - Casa Rural,75.66,1,León,
+264,ChALeT cON PiScInA,x - Estudio,130.69,3,Madrid,3.3
+265,Chalet CoN piScINA,y - Villa,101.93,4,León,4.0
+266,Loft vIsTAS AL Mar,x - Estudio,139.10,2,Madrid,
+267,ApArtameNto RefORMadO,y - Casa Rural,137.54,1,Barcelona,4.1
+268,APartAmeNTO ReFORMAdO,y - Villa,168.54,3,León,3.6
+269,VIllA De LuJO eXCLUsIVA,x - Apartamento,87.95,1,Valencia,3.0
+270,apArTAmENto reFORMadO,x - Estudio,167.41,1,Bilbao,3.6
+271,pisO eN eL CenTro,y - Casa Rural,112.90,4,Barcelona,4.1
+272,PIsO eN EL CEntro,x - Estudio,167.98,4,Madrid,3.9
+273,LOft vistas al mAR,z - Habitacion,60.46,4,Sevilla,2.9
+274,CaSa tRAdiCIONAl,y - Casa Rural,102.18,2,Valencia,3.4
+275,cHAlEt cON piSCina,x - Estudio,117.32,1,León,3.4
+276,ChaLET Con pIsCiNa,x - Estudio,118.14,3,Sevilla,2.5
+277,aTIcO lumINOso,x - Estudio,171.53,1,Sevilla,
+278,eSTUDio acoGedOR,x - Loft,81.83,1,Bilbao,4.9
+279,chAlET Con piscInA,y - Casa Rural,70.55,2,Sevilla,4.3
+280,pisO En eL ceNTRo,y - Casa Rural,116.23,3,León,3.2
+281,CASa TrAdiCioNal,z - Habitacion,87.87,3,Sevilla,4.1
+282,AtiCO LumiNosO,x - Apartamento,44.30,1,Madrid,3.4
+283,pIsO eN EL cENTrO,y - Casa Rural,132.48,2,Barcelona,3.2
+284,eStUdIo acOgedoR,z - Habitacion,72.96,1,Valencia,4.2
+285,haBiTacioN COmpaRTIDa,y - Casa Rural,170.56,3,Bilbao,3.7
+286,EsTUdio aCogEdor,x - Estudio,49.07,2,Sevilla,3.9
+287,EStUDIo AcOgedOr,x - Loft,135.76,2,Bilbao,4.9
+288,PISo EN EL CeNtro,y - Casa Rural,155.05,1,Sevilla,2.6
+289,cHAlEt cOn pIsCina,x - Apartamento,109.80,3,León,3.9
+290,EsTUDIo AcOGEDor,x - Apartamento,125.12,4,Bilbao,
+291,APArTAmeNTo ReFORmado,x - Apartamento,44.52,4,León,2.6
+292,VIlLa De LUJO EXCluSIVa,x - Loft,170.54,3,Sevilla,
+293,CaSa TRaDICIOnal,x - Loft,51.15,2,Bilbao,3.8
+294,aPARtaMEntO reforMaDo,x - Loft,122.05,4,Valencia,3.0
+295,aPArTAmEntO reFORMadO,x - Estudio,151.23,2,Sevilla,3.9
+296,atiCo LuMInOSo,x - Apartamento,133.35,3,Sevilla,4.9
+297,ChaLEt con PiscINa,x - Apartamento,59.32,3,Bilbao,4.8
+298,loFt vIsTAS AL mAr,y - Casa Rural,132.11,4,León,
+299,hAbitAciON coMpaRtida,x - Loft,41.19,1,Bilbao,4.7
+300,apartamENtO RefOrMAdo,x - Estudio,155.47,2,Barcelona,3.0
+301,EstuDiO AcOgeDoR,x - Apartamento,53.88,3,Valencia,2.9
+302,DUPLex moDeRNo,x - Loft,50.07,4,Bilbao,3.9
+303,VIllA De LuJo excLusIVA,x - Estudio,176.07,4,Bilbao,3.5
+304,Atico LuMINOSO,y - Casa Rural,91.10,3,Bilbao,4.5
+305,haBItaCIoN COMPaRtIdA,z - Habitacion,119.46,2,León,2.7
+306,duPleX mODErNO,z - Habitacion,86.74,3,Madrid,2.8
+307,dUPLEX MoDeRNo,z - Habitacion,60.74,4,León,2.9
+308,Loft vISTas AL mar,x - Loft,33.44,1,Sevilla,4.2
+309,ApARtamentO reFORmAdO,x - Estudio,145.09,2,Sevilla,4.8
+310,chAlEt coN PisCInA,x - Estudio,143.23,3,León,4.9
+311,vilLA De Lujo ExclusIVa,z - Habitacion,63.77,1,Valencia,2.8
+312,lOft vIstAs aL mar,x - Apartamento,82.46,3,León,2.6
+313,PIso En EL CeNTrO,x - Loft,39.23,3,Barcelona,3.7
+314,DUPLEX moDErnO,y - Villa,89.23,4,Sevilla,4.2
+315,piSo En eL cENTRO,x - Apartamento,142.37,3,Barcelona,2.6
+316,ATiCo LuminOSO,x - Estudio,128.76,3,León,
+317,duPlEx mOdERNo,x - Apartamento,99.81,1,León,4.6
+318,ChaLet COn PiscIna,y - Villa,170.42,2,Madrid,3.7
+319,eStUdIo ACogeDoR,x - Estudio,57.99,1,Madrid,3.3
+320,DUpLeX mODERNO,y - Casa Rural,169.67,2,Sevilla,4.1
+321,HAbiTacIon COMPArTIda,y - Villa,159.66,2,Bilbao,3.4
+322,ApARtaMeNto REFormado,x - Apartamento,45.98,3,Bilbao,4.2
+323,eSTudIo acoGeDor,x - Apartamento,51.98,2,Bilbao,4.5
+324,EstudIO acOGeDor,x - Loft,157.01,3,Bilbao,5.0
+325,Piso en eL cEnTRo,y - Casa Rural,43.18,2,Bilbao,3.6
+326,viLLa De LUJO ExcLUsIVa,y - Villa,2977.24,9,Sevilla,3.5
+327,cAsa TrADIciONaL,x - Loft,81.01,2,León,3.9
+328,aparTAMeNTo REFOrMado,y - Casa Rural,86.81,1,Bilbao,4.4
+329,aPARTaMenTO rEFormAdo,x - Loft,140.11,1,Madrid,5.0
+330,EStudIo ACogeDoR,x - Estudio,160.18,3,Bilbao,4.9
+331,viLlA DE lUjo EXclusiVa,z - Habitacion,73.68,4,Madrid,4.1
+332,chAlet Con pIsCinA,y - Villa,131.45,1,Sevilla,
+333,duPLeX MOderno,y - Casa Rural,41.14,3,Madrid,4.2
+334,VIlLA DE LUjO exClUsIVA,y - Casa Rural,71.07,4,Sevilla,3.7
+335,duPLex modeRnO,y - Casa Rural,160.10,4,Barcelona,4.6
+336,lofT visTAs al MaR,y - Villa,139.93,2,León,4.4
+337,EstUdIo ACOgedoR,z - Habitacion,152.17,1,Barcelona,
+338,CHalET cOn PiScinA,y - Villa,76.93,2,León,4.1
+339,DuPlex ModERno,x - Estudio,155.24,1,Bilbao,3.4
+340,ChaLEt CoN pIsCina,y - Villa,98.56,1,Valencia,4.2
+341,cAsA TradiCioNAL,x - Loft,33.20,4,Bilbao,3.0
+342,eSTuDIO acOGedOr,x - Loft,101.02,2,Valencia,4.0
+343,dupLeX mOdERNO,y - Casa Rural,161.67,1,Bilbao,4.8
+344,HaBiTAcION COmpartIDA,y - Villa,41.15,4,Valencia,
+345,hABitAcioN COmpArtida,x - Apartamento,83.88,3,Madrid,4.3
+346,CAsA tRadiCiONAl,y - Casa Rural,59.72,1,Sevilla,3.7
+347,duPLEx mODErnO,x - Estudio,176.97,1,Valencia,3.9
+348,Casa trAdIciOnal,y - Casa Rural,48.01,4,Sevilla,3.8
+349,PISO en eL CEnTro,x - Loft,119.52,4,Barcelona,2.8
+350,ApArTAMEnTO REfoRmaDo,y - Casa Rural,122.01,1,Madrid,3.0
+351,viLLa DE LuJO ExclUsIva,y - Villa,135.62,3,León,3.5
+352,eSTUDIo acOGEDOR,y - Villa,81.45,2,Madrid,3.5
+353,dUpLEX ModErNo,y - Villa,174.81,4,Bilbao,3.8
+354,atiCo LuMInoso,x - Estudio,80.55,4,Valencia,3.1
+355,EstuDIo ACogEdOr,y - Villa,37.05,2,León,3.9
+356,DUPLEx modErno,x - Apartamento,122.58,4,León,3.3
+357,cHALEt CoN PiSciNa,x - Apartamento,138.11,2,Barcelona,2.7
+358,CASA TradiCIoNAl,x - Apartamento,150.25,2,Bilbao,4.0
+359,loFT vIstas aL MaR,x - Loft,101.13,1,Barcelona,
+360,loFt VISTas AL mar,x - Loft,119.57,4,León,2.7
+361,HAbItaciOn cOmPartIDA,x - Apartamento,53.75,1,Madrid,3.8
+362,AtIco lUMinOSO,z - Habitacion,137.68,2,Sevilla,3.9
+363,atiCO LUMinOsO,x - Apartamento,105.28,3,Madrid,2.7
+364,duPleX MOdErNO,x - Apartamento,104.42,2,Barcelona,3.8
+365,HaBitACIOn cOMPartIDa,y - Villa,91.93,3,Bilbao,3.1
+366,VilLa de LUjO ExcLusiVa,y - Villa,3144.96,8,Sevilla,
+367,ATicO LumiNOSO,y - Casa Rural,124.50,3,León,2.8
+368,APARtAMeNTO ReFOrMAdO,x - Apartamento,90.09,4,Valencia,
+369,CaSA tRadiCIONAL,z - Habitacion,160.34,3,Barcelona,2.9
+370,habiTAcIon CoMpARtIDA,x - Estudio,116.67,3,Sevilla,3.5
+371,atICO luMinOSO,x - Loft,171.10,1,Sevilla,3.2
+372,ATiCo lumiNOso,z - Habitacion,91.45,2,Madrid,2.7
+373,estUdIO acogedOr,y - Villa,70.79,1,Bilbao,3.2
+374,HABITAciON COmParTiDA,y - Villa,177.95,1,Madrid,3.2
+375,ApARTaMeNTo REformADo,y - Casa Rural,123.24,3,Valencia,
+376,CHALeT CoN pIsCIna,y - Villa,168.66,4,Madrid,3.0
+377,vilLa de LUjO ExcluSIVA,x - Apartamento,94.49,1,Valencia,2.5
+378,AtIcO luMInoSo,x - Loft,59.51,1,Madrid,4.9
+379,VillA DE LuJO ExclUsIVa,x - Apartamento,178.87,2,Bilbao,
+380,esTudio ACOgeDor,x - Apartamento,126.14,3,Sevilla,5.0
+381,PiSo EN eL cENtrO,x - Apartamento,78.58,1,León,4.8
+382,APaRTaMEntO rEfoRMADo,y - Villa,162.43,4,Valencia,2.8
+383,cHALet cON piScinA,z - Habitacion,70.98,3,Barcelona,2.8
+384,DuplEX mODERNo,z - Habitacion,172.10,3,Bilbao,
+385,hABiTaCION COMpArtidA,x - Estudio,145.44,4,Barcelona,4.5
+386,loFt vistaS AL MaR,x - Loft,161.12,1,Valencia,3.8
+387,eStUDiO acoGeDor,x - Estudio,151.04,4,Madrid,4.4
+388,EStuDIo acOgEdor,x - Estudio,159.98,4,Bilbao,3.8
+389,EsTUdio aCOgEDOr,x - Estudio,139.61,4,Barcelona,4.8
+390,ChAlET COn PISCINA,x - Loft,129.97,4,Valencia,2.5
+391,CASa tRadiciOnal,z - Habitacion,42.63,3,Sevilla,3.6
+392,LOft viSTaS aL maR,y - Casa Rural,120.01,1,Bilbao,3.7
+393,Casa traDICIOnal,x - Apartamento,140.34,2,Sevilla,4.4
+394,DUplEX MoDERno,x - Loft,57.58,4,Madrid,4.9
+395,HaBiTaCIon coMPaRtIda,z - Habitacion,42.30,3,Barcelona,4.6
+396,cASA TRADiciOnAl,y - Casa Rural,142.45,2,Barcelona,4.4
+397,CHAleT Con pisCiNa,z - Habitacion,142.43,3,Bilbao,4.6
+398,hABItacIon comPaRTidA,x - Estudio,75.68,1,Sevilla,4.9
+399,hABitaCiON cOMPaRtIdA,y - Casa Rural,175.83,3,Sevilla,4.6
+400,ATICO LuMinOSO,y - Casa Rural,164.82,1,Sevilla,4.1
+401,ViLLA DE luJo eXClUSiVa,x - Estudio,105.74,2,Barcelona,
+402,apARtAmenTO RefOrmadO,x - Estudio,178.85,2,Barcelona,4.9
+403,cHaLeT con piSciNA,z - Habitacion,36.82,4,Madrid,2.6
+404,pisO eN El CENtRo,y - Villa,41.96,2,León,3.9
+405,aTIco LUmiNoso,x - Estudio,161.52,1,Madrid,3.6
+406,PiSO eN eL CentRO,y - Casa Rural,95.06,4,León,2.9
+407,aPaRtaMeNTo rEFOrmADO,x - Loft,144.67,3,Sevilla,4.9
+408,HABITaCiON cOmparTIda,x - Estudio,91.59,2,León,3.3
+409,cAsa trADICiOnaL,y - Casa Rural,170.78,3,Barcelona,3.0
+410,ApartAMeNTo REFoRMAdO,y - Villa,169.28,2,Barcelona,2.8
+411,piSo En el CENTrO,y - Villa,91.13,2,Barcelona,3.2
+412,duPLEx MOdERno,x - Apartamento,164.64,2,Barcelona,4.3
+413,piSO EN El CEnTRo,z - Habitacion,100.48,1,Valencia,4.4
+414,habItACION coMpaRTIda,x - Estudio,96.43,4,Valencia,3.7
+415,dUpLEx mOdeRnO,y - Casa Rural,140.18,3,Sevilla,2.9
+416,chALET CoN piScINa,y - Villa,124.51,3,Madrid,4.4
+417,ApArTAmenTo refORmADo,x - Loft,153.62,1,Bilbao,
+418,esTUdIo aCOGEDor,y - Casa Rural,118.37,2,Bilbao,2.7
+419,aTicO luMInOSO,x - Estudio,120.75,1,Bilbao,
+420,DUpLEX moDErno,y - Casa Rural,57.93,2,Madrid,3.7
+421,aPartameNTo ReFORmADo,z - Habitacion,178.18,4,León,2.7
+422,HabiTACioN CoMPARTIdA,y - Villa,96.27,3,Madrid,3.7
+423,estuDio AcOgeDor,x - Estudio,64.40,3,Sevilla,4.8
+424,ApartaMenTO REforMAdO,z - Habitacion,58.14,2,Barcelona,3.2
+425,lOFT visTAS al mar,z - Habitacion,118.66,1,Barcelona,2.6
+426,VillA dE LuJO ExclUsIVa,x - Estudio,76.03,4,Sevilla,4.3
+427,AtiCO LUmINOso,y - Villa,110.52,2,Madrid,4.6
+428,Casa tradIcIonAL,x - Loft,136.84,3,Sevilla,2.7
+429,EstUdio aCoGedor,y - Villa,148.00,3,Sevilla,4.3
+430,EStUDiO acOgEdOr,x - Loft,60.65,2,Bilbao,4.9
+431,atICo lumInOsO,y - Casa Rural,37.38,4,Bilbao,2.7
+432,apARTAmEnTO ReFormado,y - Casa Rural,34.71,1,León,3.0
+433,atICO luminosO,y - Casa Rural,91.99,3,León,5.0
+434,aPartamEnTO refORmado,y - Casa Rural,129.35,4,Madrid,3.5
+435,cHALet cON PIScINa,y - Casa Rural,112.37,2,Bilbao,3.6
+436,PIso en el CEnTRO,z - Habitacion,121.24,3,Bilbao,5.0
+437,ViLla dE lUjo EXcluSivA,x - Estudio,134.14,2,Barcelona,4.0
+438,vIlLA DE luJO eXClusivA,y - Casa Rural,121.55,3,Sevilla,4.2
+439,DUpLex MoDeRNo,z - Habitacion,94.27,4,Bilbao,4.5
+440,ESTUdIO ACoGEDOR,y - Casa Rural,76.96,4,Madrid,4.0
+441,lofT VIStas AL Mar,x - Apartamento,161.12,3,Valencia,2.9
+442,cHAlEt CoN PIScIna,y - Villa,137.52,3,Madrid,3.3
+443,PiSo En el CenTRo,x - Estudio,37.33,3,Valencia,4.5
+444,atICO lumiNOsO,x - Loft,56.56,1,Sevilla,3.8
+445,LoFt VistAS aL mAr,z - Habitacion,143.54,3,Valencia,4.1
+446,lofT VISTas AL MAr,x - Estudio,115.13,1,Bilbao,
+447,aTICo lUmInosO,y - Villa,43.37,2,Barcelona,
+448,HAbitACIOn cOMParTidA,x - Loft,113.64,3,Bilbao,4.9
+449,vIlLA de Lujo eXCluSivA,y - Villa,50.15,4,Sevilla,4.3
+450,LOft vIStAS al mAR,z - Habitacion,131.65,4,Sevilla,4.9
+451,vIlLa de Lujo excLUsivA,x - Apartamento,75.09,2,Barcelona,
+452,LoFT VisTas AL MAr,x - Loft,154.82,1,Barcelona,4.8
+453,EsTUdiO ACOgeDOR,y - Villa,38.73,3,León,3.1
+454,villa dE LUjo ExclUsIVa,z - Habitacion,67.25,2,Madrid,4.9
+455,duplEx mOdeRnO,y - Villa,73.12,1,Madrid,4.8
+456,duPLEx moDeRNO,z - Habitacion,162.88,3,Valencia,4.9
+457,ViLla De LuJO eXCLuSiVa,x - Apartamento,106.14,2,Barcelona,3.3
+458,atico LUMInOsO,x - Loft,106.87,3,León,3.0
+459,VIlla DE lUJO exclusiVA,y - Casa Rural,65.19,3,Valencia,4.2
+460,LofT ViSTAS AL MAr,x - Apartamento,89.55,1,León,3.4
+461,CHaLET Con PIScInA,x - Estudio,53.28,2,Valencia,2.6
+462,LoFT VistaS al mAR,z - Habitacion,91.22,4,León,4.6
+463,aTiCo luMInoSO,y - Villa,96.39,4,Barcelona,3.6
+464,EsTudio AcoGeDor,z - Habitacion,69.94,2,Barcelona,2.9
+465,aPARtameNTo rEForMadO,x - Loft,94.46,2,Bilbao,4.6
+466,PIso En EL cENtrO,x - Estudio,101.20,2,Bilbao,2.6
+467,dUpLEx ModERNO,x - Estudio,64.36,1,Bilbao,4.8
+468,HabiTaciON cOmpARTIda,y - Villa,90.03,4,León,3.3
+469,HABItacIOn ComparTIdA,x - Estudio,44.88,3,Madrid,2.9
+470,cHalEt coN pIscInA,z - Habitacion,106.00,2,Sevilla,4.4
+471,LOFt vIsTas AL MAR,y - Casa Rural,59.50,2,Sevilla,3.9
+472,DupLEX moDeRNO,x - Loft,99.80,4,Bilbao,
+473,VIllA DE LujO EXCLuSIvA,x - Apartamento,100.09,1,Valencia,
+474,CASa trAdiCionAL,x - Loft,133.40,2,Madrid,3.8
+475,LOfT viSTaS al MAR,x - Loft,140.52,1,León,4.5
+476,piSO eN El cENTRo,x - Apartamento,32.31,3,León,4.7
+477,dUpleX MOdErnO,x - Apartamento,111.14,1,Valencia,3.5
+478,vilLA DE luJO EXClusiVA,x - Apartamento,166.62,1,Bilbao,
+479,estUdIo AcOgEDor,x - Loft,120.39,1,León,
+480,vILLa dE LuJO EXCLUsIVa,y - Villa,167.15,4,Madrid,3.4
+481,ESTUdiO aCogEDor,x - Loft,162.25,2,León,2.6
+482,EsTUdIO ACogedoR,x - Apartamento,57.41,2,Madrid,
+483,aTICo LUminoSO,x - Apartamento,166.62,1,Barcelona,2.5
+484,cHALeT cON pISciNa,y - Villa,141.32,1,Barcelona,4.2
+485,VILLA dE lujo excLUSIva,x - Estudio,155.86,3,Valencia,3.4
+486,eStudio ACoGeDor,z - Habitacion,99.13,1,León,2.9
+487,duPlEx ModeRnO,x - Apartamento,30.37,4,Sevilla,2.6
+488,VIlLA DE lUjO EXCLusiva,y - Villa,162.55,4,Barcelona,2.8
+489,PisO En EL ceNTro,y - Casa Rural,40.76,4,Valencia,3.1
+490,loFT Vistas al mar,x - Loft,84.43,1,Bilbao,4.5
+491,CHaLeT CON PiScINA,y - Casa Rural,161.09,1,Barcelona,4.5
+492,HABItACiON CompArtIda,y - Villa,81.30,4,Valencia,2.9
+493,AticO luMinoso,y - Casa Rural,97.62,1,Bilbao,2.6
+494,esTuDio ACoGEdOR,z - Habitacion,165.76,3,Barcelona,3.9
+495,eSTudio ACoGEdOR,y - Casa Rural,126.72,2,Madrid,
+496,ChaLET COn piscInA,x - Apartamento,164.18,1,Barcelona,
+497,HabitACIOn COmPaRTida,z - Habitacion,110.17,3,Bilbao,3.8
+498,DupLEx MOdERnO,x - Estudio,43.71,2,Barcelona,4.2
+499,pIsO en el CENtro,x - Loft,88.80,2,Barcelona,3.1
+500,VILlA de LuJO exClUSIvA,x - Apartamento,69.24,1,Bilbao,4.9
+501,AParTamENTo rEFoRmAdO,x - Apartamento,175.27,4,León,
+502,CasA TradIcionAl,y - Villa,72.97,2,Valencia,4.4
+503,LOfT VIStas al Mar,x - Estudio,51.19,1,Madrid,3.3
+504,aTICo LumInoSo,y - Villa,169.83,2,Madrid,4.0
+505,AtICO LuMINoSO,y - Villa,125.00,3,Valencia,4.3
+506,CHAlet COn pIscINa,x - Estudio,127.07,3,Bilbao,4.5
+507,atICO lUMINoSO,x - Estudio,167.70,4,Sevilla,
+508,cHAleT coN PiScina,x - Loft,81.08,3,Valencia,3.3
+509,aTICO LuMINoSo,y - Casa Rural,161.21,1,León,4.0
+510,eSTuDio AcOgeDOR,y - Casa Rural,51.13,1,Madrid,4.1
+511,cAsa TrADiCiONAL,y - Casa Rural,63.50,4,León,4.0
+512,cASa TrADIciONAL,y - Casa Rural,123.20,2,Sevilla,4.6
+513,esTUDio ACogeDOr,y - Villa,161.45,3,León,2.7
+514,vILLA DE LUJO exCluSIva,y - Villa,2887.05,9,Sevilla,3.5
+515,pIsO en El CENTrO,z - Habitacion,115.65,3,Barcelona,5.0
+516,dUpLEX moderno,x - Apartamento,164.15,1,Barcelona,3.7
+517,ViLlA de lujO eXCLusIvA,y - Villa,32.37,4,Barcelona,3.1
+518,duPLeX moDErNo,y - Casa Rural,117.52,3,Valencia,2.9
+519,ATiCO lumInOSO,x - Estudio,31.68,2,León,3.2
+520,viLLa dE lUJO eXCLuSIVa,x - Apartamento,135.49,4,Barcelona,4.1
+521,EsTudIO ACOgeDor,x - Loft,138.71,3,Bilbao,3.7
+522,atiCO luminOsO,z - Habitacion,149.60,2,León,4.9
+523,VILLa de lUJo ExClUSIVa,z - Habitacion,52.96,1,Barcelona,
+524,chAlET cON PiSCIna,x - Apartamento,53.34,2,Bilbao,3.3
+525,esTUDiO acOGEdOR,y - Villa,46.95,3,Valencia,2.9
+526,AparTaMENTo reformAdO,x - Loft,165.23,2,Valencia,2.8
+527,LOft vIStAS AL mAR,y - Casa Rural,130.97,3,Sevilla,4.4
+528,atIcO LumiNoSo,y - Casa Rural,76.02,2,Barcelona,3.9
+529,piSo eN El CEnTrO,y - Villa,119.73,3,Barcelona,3.5
+530,ViLla DE LUjo excluSiVa,z - Habitacion,157.97,3,Sevilla,4.3
+531,casa tRadICionAL,x - Apartamento,74.46,4,Madrid,3.0
+532,loFT VIStAS AL MAR,x - Loft,154.02,1,Madrid,3.3
+533,Casa trADICIOnAl,y - Casa Rural,175.97,1,Valencia,3.5
+534,chalet CON piScIna,x - Loft,82.15,4,Barcelona,2.7
+535,casA tRaDICIonAl,y - Villa,132.01,3,Sevilla,
+536,VILlA DE lUJo eXcLusIva,y - Villa,157.52,3,Madrid,3.8
+537,lOfT vIStas aL mar,y - Casa Rural,148.22,1,Valencia,4.4
+538,CHAlEt cON piscina,z - Habitacion,39.69,3,Madrid,3.1
+539,CHALET con PIScINa,y - Casa Rural,133.06,2,León,4.7
+540,HabItaCiOn cOMPARTiDa,z - Habitacion,159.43,1,Madrid,3.4
+541,DupleX mOdeRNO,y - Villa,90.63,4,Barcelona,3.0
+542,chAlEt Con pISCinA,y - Villa,112.08,1,Barcelona,3.2
+543,apaRtamEnto REforMAdo,x - Apartamento,32.24,4,Sevilla,2.9
+544,CaSa trAdIcionAL,x - Loft,55.36,3,Barcelona,4.7
+545,PISO eN El cenTRo,z - Habitacion,87.63,3,Valencia,4.0
+546,aTiCO LumINOSo,y - Casa Rural,162.86,2,Bilbao,4.8
+547,PIsO EN el cEnTRO,x - Apartamento,109.91,2,Valencia,
+548,ESTUDIO acOGEDor,y - Villa,47.19,4,Madrid,
+549,ATiCo LUminOso,y - Casa Rural,108.23,2,Barcelona,
+550,loft vISTAs al MAR,y - Villa,118.05,3,Madrid,4.4
+551,HaBItACIon cOMPARtidA,x - Loft,150.61,2,Valencia,3.1
+552,aTIcO lUminoSO,z - Habitacion,139.97,4,Bilbao,2.7
+553,habiTacion cOMpArTiDA,y - Villa,111.27,1,Sevilla,4.4
+554,aTICO LumInOSO,x - Apartamento,105.04,3,Bilbao,3.1
+555,vILlA de luJo ExClUsIVA,y - Villa,94.33,1,Barcelona,
+556,EStuDIO ACogeDOR,x - Apartamento,78.46,3,Bilbao,4.5
+557,esTUdiO AcogeDoR,x - Estudio,58.06,2,Valencia,4.2
+558,vIllA dE lujo EXCLUsiva,x - Apartamento,104.41,3,Barcelona,2.9
+559,aTicO lUminosO,y - Villa,36.59,3,Valencia,
+560,cAsA tRAdICiOnal,x - Apartamento,77.03,2,Bilbao,
+561,duPLEx moDeRno,x - Loft,85.86,4,Madrid,3.9
+562,casA TRAdICional,x - Apartamento,39.40,3,Madrid,4.5
+563,aTicO lUMInOSO,y - Villa,67.33,2,Madrid,
+564,vIlLA De lujO EXcluSiVA,x - Loft,97.58,4,Bilbao,3.8
+565,vIllA DE LuJo EXClusIvA,x - Estudio,142.61,3,Barcelona,
+566,APARTamEnto REfoRMADO,z - Habitacion,49.38,4,Valencia,3.8
+567,DuPLEx MODErNo,y - Villa,146.20,4,Sevilla,3.8
+568,LOFt visTAS Al mAR,z - Habitacion,106.49,2,Barcelona,3.6
+569,eSTUDiO AcogedOR,x - Loft,86.94,2,Bilbao,2.5
+570,APartamento REForMaDO,y - Villa,79.30,4,Bilbao,4.2
+571,DUplex modERNo,y - Casa Rural,100.46,4,Sevilla,
+572,caSA TRADicIOnAL,x - Loft,118.68,4,Valencia,4.3
+573,ViLLA DE lujo eXCLUsIVA,y - Villa,45.07,1,Bilbao,4.6
+574,LOFT ViSTAs aL Mar,z - Habitacion,53.74,1,Madrid,3.0
+575,lOFT vISTaS aL Mar,z - Habitacion,99.96,2,Valencia,3.0
+576,APaRtaMeNTo REfORmaDo,y - Villa,37.98,4,Sevilla,3.3
+577,ATICO LuMiNOSO,y - Casa Rural,48.94,1,León,3.4
+578,PISO EN eL CeNTro,x - Estudio,70.93,1,Madrid,2.9
+579,cASA trAdIcionaL,x - Loft,116.48,2,Valencia,4.0
+580,aParTamEntO REfOrmADo,x - Estudio,82.52,2,Valencia,2.6
+581,AtIco LuMinOSo,x - Estudio,100.10,3,Valencia,2.8
+582,apaRTaMENTO reFoRMAdO,z - Habitacion,32.55,4,Sevilla,3.1
+583,viLlA De Lujo EXCLuSiva,x - Loft,128.31,2,Sevilla,4.7
+584,ATiCo LUmiNOsO,x - Apartamento,178.51,3,Bilbao,4.6
+585,Piso En EL cEnTrO,z - Habitacion,52.19,2,León,4.4
+586,CASA tRaDICIOnal,y - Casa Rural,128.13,4,León,3.2
+587,cHaLet Con PiScINa,y - Casa Rural,122.66,3,Sevilla,2.7
+588,hAbiTaCiON CoMParTIda,y - Villa,107.26,2,León,3.5
+589,DuPlex mODeRnO,x - Apartamento,82.05,3,León,
+590,viLlA DE lUjO EXcLusiVA,x - Apartamento,119.81,2,Madrid,4.2
+591,VIlLa dE luJO eXCLuSIvA,y - Casa Rural,49.19,2,Sevilla,2.7
+592,habItACioN comPaRtidA,y - Casa Rural,37.68,4,León,3.1
+593,estUdiO acoGEdOr,x - Loft,64.52,4,Madrid,4.3
+594,DuPleX MoDerNO,y - Villa,136.98,4,Barcelona,2.9
+595,ESTuDio acogEDor,y - Villa,50.30,3,Barcelona,3.3
+596,pISO en El CEntro,x - Estudio,90.23,2,Valencia,4.1
+597,pIso EN EL cenTRO,x - Apartamento,47.63,2,León,3.4
+598,LOFT vIsTAS aL MAR,y - Casa Rural,113.50,4,Madrid,4.1
+599,DUPLEx ModeRNO,z - Habitacion,72.56,2,Valencia,4.3
+600,PisO En El cenTro,x - Estudio,90.02,1,Bilbao,4.8
+601,PIso eN EL CENTRO,y - Villa,89.56,2,Madrid,2.7
+602,haBiTaCIOn cOmpaRtIdA,x - Estudio,101.09,2,Sevilla,4.7
+603,aPARTaMenTo rEFoRmADo,z - Habitacion,87.08,1,León,4.0
+604,CHALET cOn PIsCiNA,x - Estudio,157.93,3,Sevilla,2.5
+605,apARtameNTO rEformAdO,x - Apartamento,30.42,2,León,3.4
+606,cAsa trADicional,x - Estudio,111.96,2,Valencia,2.9
+607,piso eN EL centRO,x - Estudio,40.11,2,León,4.7
+608,caSA tRAdiCIONaL,x - Loft,161.24,3,Valencia,
+609,ATicO lumInoSO,x - Apartamento,178.60,4,Madrid,4.5
+610,AtiCO LuMINoso,x - Loft,65.14,1,Valencia,
+611,dUpleX mOdERNO,x - Apartamento,117.50,3,Sevilla,3.4
+612,HabITAcIon COmParTIDA,x - Estudio,40.86,3,Madrid,4.3
+613,cHalEt cON PiscinA,z - Habitacion,101.00,4,Bilbao,3.0
+614,EstUDIO AcoGEdOR,x - Apartamento,64.92,2,Sevilla,3.8
+615,viLla de LUJo EXCluSivA,z - Habitacion,164.68,4,Madrid,2.7
+616,cHAlET cON PisCina,y - Casa Rural,152.62,3,Bilbao,
+617,CAsA TradicIonaL,y - Villa,60.29,2,Sevilla,4.9
+618,hAbITaCioN compARtida,x - Estudio,60.97,3,Valencia,2.5
+619,aTIcO Luminoso,x - Apartamento,137.31,3,Barcelona,3.4
+620,aTIco LUMiNOsO,y - Casa Rural,127.96,3,Barcelona,5.0
+621,LoFT vISTAS aL maR,y - Casa Rural,135.18,4,Madrid,4.3
+622,EstUDIO AcogEdOR,y - Villa,147.84,3,Sevilla,4.4
+623,vilLa de lujO ExCLusIVa,y - Casa Rural,152.88,4,Valencia,4.8
+624,piSo En EL cENTRo,y - Villa,78.53,1,Valencia,3.2
+625,chaLeT Con pISciNa,y - Casa Rural,89.86,3,Valencia,4.7
+626,DUplex mOdERnO,x - Estudio,76.47,4,Valencia,3.1
+627,casA TRADiCIOnaL,y - Villa,97.00,4,Valencia,4.0
+628,ApaRtaMENto refoRMADo,x - Apartamento,70.23,4,Bilbao,4.2
+629,PISO En El CENTrO,x - Estudio,100.13,2,Valencia,4.1
+630,HABITACiOn ComPARtIda,x - Loft,162.58,4,Barcelona,4.1
+631,lOFt ViSTaS aL mar,y - Villa,102.41,1,Sevilla,4.0
+632,piSo eN el CeNTro,y - Villa,46.92,2,Sevilla,
+633,ApaRtaMeNTo REForMAdO,x - Apartamento,108.57,2,León,4.9
+634,apartamENTo reFORmaDO,x - Estudio,55.32,1,Madrid,3.3
+635,lOfT ViStAS aL mar,y - Villa,80.65,3,Barcelona,
+636,AtIco LUmiNoSO,y - Casa Rural,116.71,1,Sevilla,
+637,EStuDio aCoGedoR,y - Villa,52.29,2,Bilbao,3.3
+638,ChaLet con pIScINA,x - Estudio,166.70,4,Madrid,4.7
+639,CAsa tRaDiCIoNAl,x - Loft,92.75,2,Barcelona,
+640,chalET CoN PIsCINa,z - Habitacion,54.77,4,Bilbao,2.8
+641,dUplEX MoDerNO,y - Casa Rural,119.39,1,Bilbao,2.9
+642,haBItaCIon COmPArtiDa,y - Casa Rural,99.45,4,Barcelona,2.6
+643,esTuDIO AcOGeDor,x - Estudio,83.75,3,Bilbao,4.2
+644,vIlla dE LUJo EXclUsiVA,x - Loft,58.94,4,León,3.1
+645,chalet CON PisciNa,x - Estudio,122.95,2,Madrid,4.2
+646,ChaLET coN PIsCInA,y - Casa Rural,76.66,4,Madrid,2.9
+647,ApaRtameNTO rEForMAdO,x - Loft,50.95,3,Sevilla,4.3
+648,Duplex MOdErNO,x - Apartamento,82.29,4,Bilbao,
+649,DUplex moDErno,x - Apartamento,117.80,3,León,4.8
+650,CHAleT con PiSCiNA,x - Estudio,143.79,2,Barcelona,4.3
+651,CaSa trAdIciOnAL,y - Villa,68.09,3,Sevilla,3.0
+652,dUpLeX MOdErNo,y - Villa,76.70,3,Sevilla,3.0
+653,EStUdiO aCOgedOR,x - Apartamento,53.72,4,Bilbao,3.1
+654,vILLA dE LUJo eXCLusiVa,x - Loft,120.42,2,Madrid,
+655,chaLEt CON PIscINa,y - Villa,87.52,4,León,2.7
+656,lOFt VisTAs AL mar,y - Villa,74.34,1,Valencia,3.6
+657,DUplEX mODErno,x - Apartamento,168.77,4,León,2.7
+658,aPArTamEnto ReformadO,z - Habitacion,166.87,1,Barcelona,3.1
+659,ApaRTAMenTo rEFoRMADO,x - Estudio,31.63,3,Barcelona,
+660,dUPlex MOderNo,y - Villa,55.95,3,Bilbao,4.1
+661,LofT vIStAs aL MAR,y - Villa,133.11,4,Barcelona,3.2
+662,aTiCo luMINosO,y - Villa,59.62,1,Bilbao,3.5
+663,HabiTaCion ComPaRtiDa,x - Estudio,144.18,2,Valencia,4.4
+664,AtIcO lumINOSO,z - Habitacion,84.12,2,Barcelona,3.6
+665,cHalET cOn PIsCinA,x - Loft,124.38,1,León,
+666,estUdiO ACogEdor,x - Loft,144.12,2,Madrid,2.7
+667,LOFT VisTAs AL mar,x - Estudio,30.52,1,Sevilla,3.8
+668,Villa dE luJo EXCLUSivA,x - Apartamento,171.51,1,Bilbao,3.9
+669,piSo En el CentRO,z - Habitacion,65.53,2,Barcelona,3.4
+670,cHaLEt cOn pIscINA,z - Habitacion,40.02,2,Barcelona,3.2
+671,VIlLA DE Lujo EXClUsiVA,z - Habitacion,89.74,4,Bilbao,4.3
+672,aTiCo lUmInoSO,y - Casa Rural,151.39,4,Barcelona,4.2
+673,lOFt vistAs Al mar,x - Apartamento,168.28,2,Sevilla,
+674,ATico LumiNosO,y - Casa Rural,172.22,4,Sevilla,4.0
+675,CASA tRAdICionAl,x - Loft,52.82,3,Madrid,3.5
+676,HabiTAcIon cOmpaRTiDA,x - Estudio,55.72,4,Bilbao,
+677,dupLEx MODERnO,y - Villa,31.96,1,Barcelona,3.8
+678,ApArTAmENTo reforMADO,y - Casa Rural,160.84,2,Madrid,3.8
+679,ApaRtamENTO ReformADO,z - Habitacion,126.57,1,Sevilla,3.8
+680,HaBItACiON CoMpArTidA,z - Habitacion,118.72,4,Sevilla,3.6
+681,viLLA de lujo EXCluSiVA,x - Estudio,151.90,4,Bilbao,3.5
+682,PIso eN EL centRo,z - Habitacion,120.84,1,Bilbao,3.3
+683,ChalET Con PISCINa,x - Apartamento,142.39,2,Barcelona,
+684,dUplEX MOdeRnO,y - Villa,60.91,2,Sevilla,3.4
+685,aTiCO LumINosO,x - Loft,177.06,3,Barcelona,
+686,VILla dE LUJo ExClUsIva,x - Loft,65.10,1,Bilbao,4.4
+687,chalEt CON pIsCINa,x - Loft,167.70,2,Sevilla,4.9
+688,LoFT viSTas AL mAr,x - Apartamento,129.12,3,Madrid,4.7
+689,VIlla de LuJO eXCLUSivA,x - Estudio,38.20,3,León,4.9
+690,ChAlet coN PiscinA,y - Casa Rural,151.17,1,Madrid,4.5
+691,estuDIO AcOgedor,x - Apartamento,171.54,3,León,4.5
+692,esTudIO ACogeDOR,x - Apartamento,31.49,2,Barcelona,2.8
+693,ATico LumINoso,y - Villa,100.17,4,Barcelona,3.1
+694,PiSO eN El ceNtro,y - Casa Rural,106.75,3,Barcelona,2.9
+695,caSA TRaDiCionAL,x - Loft,90.01,2,Valencia,3.1
+696,CaSa tRAdICiOnAl,y - Villa,134.46,4,Sevilla,4.9
+697,pISo en eL CEnTRo,y - Villa,34.51,3,Sevilla,4.6
+698,cAsa traDIcIONAL,z - Habitacion,143.77,3,Sevilla,4.8
+699,cHalEt Con pIsciNA,z - Habitacion,171.02,1,Sevilla,2.8
+700,cHAlet CON piScina,x - Apartamento,100.35,1,Sevilla,
+701,AParTAMENto REFORMADo,y - Casa Rural,44.04,2,León,2.9
+702,atICO LUmINoso,z - Habitacion,80.82,3,Madrid,3.1
+703,Loft vISTas al Mar,x - Estudio,43.23,1,Sevilla,4.5
+704,caSA traDIcIoNal,x - Apartamento,134.54,2,Valencia,4.9
+705,esTudIo aCOgeDOr,y - Casa Rural,171.70,3,Valencia,
+706,APaRTAmenTO REFORmado,x - Estudio,135.07,4,Valencia,4.8
+707,pISO EN el cEnTRo,x - Loft,104.13,2,Valencia,4.6
+708,EsTUdIO ACogedOR,y - Casa Rural,98.45,3,Bilbao,2.5
+709,hAbItACION COMparTIDa,y - Villa,161.92,1,Sevilla,4.5
+710,DupleX MODerNO,x - Apartamento,113.16,3,Barcelona,5.0
+711,esTuDio AcOgedoR,x - Estudio,156.92,3,Valencia,4.5
+712,EStUdiO aCOgEDOr,z - Habitacion,62.37,2,Madrid,3.9
+713,duPleX MOdErNO,y - Casa Rural,150.29,2,Barcelona,4.2
+714,aticO LUMiNOsO,y - Villa,124.14,1,Barcelona,
+715,aTico lUMiNoSO,x - Loft,113.49,3,Sevilla,3.0
+716,CASA TRADICioNal,y - Villa,58.82,3,Bilbao,3.1
+717,CHaLET con PIscinA,x - Loft,140.03,4,Bilbao,2.7
+718,caSa tRadIcIONaL,y - Villa,39.28,4,Sevilla,3.1
+719,VilLa dE lUjo excLUSivA,y - Villa,106.47,2,Valencia,3.9
+720,chaLET CoN PIsCIna,x - Apartamento,33.85,3,Bilbao,4.0
+721,VIlLA de lUJo eXCLUsIVa,y - Casa Rural,95.16,1,Sevilla,4.5
+722,hAbITAcIOn ComPaRtIdA,y - Casa Rural,102.64,2,Sevilla,4.3
+723,aPartAMENto reFoRMaDo,x - Loft,129.55,3,Valencia,4.3
+724,DuplEx mODeRnO,y - Villa,167.11,1,Barcelona,4.8
+725,atiCo luMiNOSO,x - Apartamento,113.22,1,Bilbao,2.9
+726,chaLEt con pIscINA,y - Villa,114.64,1,Bilbao,
+727,ESTUdIo AcOgeDOr,x - Loft,66.07,2,Barcelona,4.0
+728,CAsA TrADicIOnAL,x - Estudio,110.43,4,Valencia,4.1
+729,PiSo EN eL cenTRO,x - Estudio,138.43,2,Valencia,4.7
+730,EStUDiO AcogedOR,x - Loft,65.19,3,Bilbao,
+731,LOft vIsTAs AL MAr,y - Casa Rural,67.91,3,Valencia,3.5
+732,HaBITaCIoN ComPaRTida,x - Apartamento,99.80,3,Barcelona,4.0
+733,EstUDIo ACOGedOR,x - Loft,94.84,4,Madrid,2.9
+734,ViLlA De LuJo exCLUSIVA,y - Casa Rural,65.46,2,Barcelona,3.7
+735,chALEt cON PISciNA,y - Villa,44.42,3,Sevilla,
+736,CHAleT CoN piscinA,x - Apartamento,132.91,4,Valencia,4.3
+737,Atico LUmiNoSO,y - Villa,93.10,3,Bilbao,2.7
+738,pISO eN el cEntro,z - Habitacion,87.96,3,Valencia,2.9
+739,lOft VisTAS al maR,x - Estudio,103.51,1,Sevilla,3.0
+740,EsTUDIo ACogeDoR,y - Villa,136.73,2,León,
+741,apArtAMENTO rEFoRmADo,y - Villa,171.03,1,Madrid,4.1
+742,ApArTAMEnTO REFORMadO,x - Estudio,114.59,2,León,
+743,vILla de lUJo eXcluSivA,x - Loft,117.87,1,Madrid,3.4
+744,DUPlex mOdErnO,z - Habitacion,83.19,3,León,4.2
+745,EstUdiO AcOgEdOR,y - Villa,71.22,1,Bilbao,4.1
+746,APaRtamENto RefORmadO,y - Casa Rural,124.74,3,Valencia,4.9
+747,PISO en el cEnTRo,x - Apartamento,75.09,2,León,2.9
+748,piso En el cenTrO,z - Habitacion,124.12,1,Bilbao,3.5
+749,estuDIo aCOgeDOr,z - Habitacion,177.37,1,Sevilla,4.4
+750,pISO EN EL cEnTro,x - Apartamento,149.92,3,Sevilla,4.5
+751,caSA TRadICIoNal,z - Habitacion,40.80,1,León,3.7
+752,LofT viStaS Al Mar,x - Estudio,58.02,1,León,
+753,esTudIo acoGedOr,y - Villa,36.47,2,Bilbao,3.8
+754,pisO EN eL ceNtRO,z - Habitacion,179.93,3,Sevilla,3.7
+755,atIcO LUMINOso,x - Loft,99.51,2,Barcelona,3.1
+756,piSO En eL CEntRo,z - Habitacion,175.14,3,Barcelona,2.9
+757,DuPLEx moderNO,x - Estudio,128.29,4,Sevilla,3.7
+758,aPARtAmentO rEfoRmaDo,x - Loft,157.45,4,Valencia,4.4
+759,vilLA DE LUjo eXCLuSiVA,x - Estudio,96.82,1,Sevilla,2.5
+760,VIllA dE LUjo exCluSIva,x - Estudio,118.71,1,Valencia,3.2
+761,LOFT vIstAs AL mAr,x - Loft,118.51,4,Sevilla,3.2
+762,hABItAciON cOMpARtIdA,x - Loft,68.25,1,Bilbao,2.6
+763,cHALet cON pISCIna,x - Apartamento,170.11,1,Madrid,3.0
+764,hAbitaCiOn cOMpARTIda,x - Estudio,175.35,1,Valencia,3.3
+765,DupLEx moDERno,y - Casa Rural,65.22,1,Bilbao,4.2
+766,ChaLET COn pISCina,x - Loft,102.28,4,Sevilla,
+767,esTuDIo AcOgedOr,y - Villa,100.67,1,Barcelona,3.8
+768,cASa trADIcional,x - Estudio,131.45,2,Valencia,3.1
+769,casa tRADiCIonaL,y - Casa Rural,108.46,1,León,
+770,cASA TradiCiOnaL,y - Casa Rural,73.64,2,Valencia,4.7
+771,CASa TrADiCIonaL,z - Habitacion,116.65,1,Bilbao,3.1
+772,dUplEx modERnO,x - Estudio,89.81,2,Bilbao,2.8
+773,LoFt vIstaS Al mar,y - Casa Rural,59.05,1,Bilbao,
+774,cHaLET con piscinA,x - Loft,57.19,3,Madrid,4.0
+775,Atico lUmINoso,z - Habitacion,83.43,3,Valencia,3.7
+776,esTUdIo aCogedoR,x - Loft,154.25,2,Madrid,3.8
+777,habitaCiOn cOmpArtIDA,x - Apartamento,80.73,4,Sevilla,
+778,ApARtaMento REForMaDO,z - Habitacion,75.11,2,León,3.6
+779,lOFt vIsTAS AL mAR,x - Apartamento,64.90,2,Sevilla,4.7
+780,ChaLet cOn PisCIna,y - Casa Rural,36.09,2,León,4.8
+781,EStuDIO acOGEDoR,x - Apartamento,126.90,3,Barcelona,4.6
+782,casA tRADiciOnAL,z - Habitacion,177.22,3,Sevilla,4.3
+783,pIsO EN el cEnTRo,x - Loft,110.26,3,Madrid,4.8
+784,CHALet CoN PIScIna,x - Estudio,62.48,4,Valencia,3.6
+785,CAsa tRADIcional,x - Apartamento,33.60,1,Sevilla,4.0
+786,apArtaMeNtO reFoRmaDo,x - Loft,139.80,1,Barcelona,3.9
+787,VilLa dE lujo EXcLuSIva,z - Habitacion,63.04,4,Valencia,4.2
+788,vILla dE Lujo ExCLuSIVA,x - Loft,178.79,1,Barcelona,4.8
+789,AtIco lUMINOsO,y - Casa Rural,157.63,2,Bilbao,3.1
+790,duPLEx moDErnO,y - Casa Rural,108.32,1,Valencia,
+791,AparTamENTo ReFOrmAdo,x - Estudio,65.36,3,Bilbao,3.3
+792,DupLEX mOdERno,y - Villa,84.75,3,Sevilla,4.5
+793,aTico luMINOSO,x - Estudio,145.16,2,Barcelona,2.7
+794,CASA TRaDICional,x - Loft,30.09,1,Bilbao,
+795,cHaLEt cOn pisciNA,x - Apartamento,107.46,4,Barcelona,4.4
+796,piso eN eL CEntRO,y - Casa Rural,46.19,1,León,4.7
+797,habiTAcioN CompartIDa,y - Casa Rural,36.58,1,Bilbao,2.9
+798,esTuDio AcOGedoR,y - Villa,142.29,3,Valencia,
+799,DUPlEX ModErnO,y - Villa,121.30,1,Madrid,
+800,ViLLa de luJo eXClUsiva,y - Villa,4259.54,6,Sevilla,4.4
+801,loFT ViStas AL mAr,y - Casa Rural,82.60,1,Barcelona,4.2
+802,eStuDIo AcogEDor,x - Estudio,41.10,2,Valencia,3.3
+803,dUPleX Moderno,z - Habitacion,158.59,3,Barcelona,3.9
+804,LOFt vIStAs Al MAR,y - Casa Rural,167.93,2,Bilbao,
+805,Piso En el ceNTro,z - Habitacion,142.28,2,Madrid,4.3
+806,pIsO en el CENTrO,y - Villa,63.58,1,Sevilla,4.1
+807,vIlLa dE lujO EXCLusiva,y - Villa,38.44,2,Valencia,4.5
+808,cHALEt COn pIscINA,y - Villa,70.24,4,Barcelona,4.1
+809,eSTUDiO ACogeDOR,x - Estudio,36.33,3,León,3.5
+810,chaLeT coN PISCiNA,z - Habitacion,156.13,1,Bilbao,3.8
+811,APARtAMeNTo reFOrmAdo,y - Casa Rural,158.70,2,León,4.0
+812,DuPLeX ModErnO,x - Apartamento,160.00,4,León,4.2
+813,EsTUdio AcoGEDOR,y - Casa Rural,60.31,2,Madrid,3.3
+814,cHALet COn PISCInA,z - Habitacion,59.70,3,Sevilla,4.8
+815,Piso en el cENtRO,z - Habitacion,42.73,2,Bilbao,2.8
+816,PISO En EL centrO,z - Habitacion,129.07,4,Madrid,4.2
+817,lOFT VIStaS Al MAR,y - Villa,105.42,1,Valencia,
+818,duplex mOdernO,x - Loft,159.89,3,Barcelona,4.3
+819,ApaRTaMenTO ReFOrMaDo,y - Villa,65.03,4,Barcelona,3.3
+820,haBITaCioN comparTidA,y - Casa Rural,136.55,2,Madrid,3.5
+821,DuPLex MODErNo,y - Villa,161.46,3,Bilbao,3.3
+822,hABitaCioN CompArtIDA,x - Loft,133.62,3,León,3.3
+823,PIso eN El centro,x - Apartamento,171.54,1,León,2.8
+824,hAbiTacIOn CoMPARtIDA,x - Apartamento,115.58,4,Sevilla,2.6
+825,eStuDIo ACoGeDOR,z - Habitacion,51.74,4,León,4.0
+826,duPLEx mOdERno,z - Habitacion,30.34,4,León,2.8
+827,eSTUDIO acoGEDOR,z - Habitacion,37.81,3,Madrid,2.6
+828,ViLlA De luJO EXClUsIva,y - Casa Rural,34.27,1,Sevilla,3.9
+829,piSo EN eL CeNtrO,x - Loft,91.78,1,Barcelona,4.0
+830,lOfT vIsTAs aL mar,x - Estudio,42.49,4,Madrid,
+831,habiTaCIon COmpARtidA,y - Villa,56.45,1,Barcelona,3.6
+832,ESTUDio aCOGEDoR,y - Villa,151.04,3,Madrid,4.3
+833,casa tradIcIonaL,x - Loft,62.11,2,Madrid,3.3
+834,DupLEX ModErNo,x - Apartamento,151.93,1,Valencia,3.3
+835,aTICo lUmInoSo,y - Casa Rural,113.50,4,León,4.9
+836,VIlLA de LujO EXclUSIva,y - Casa Rural,178.25,4,Sevilla,4.6
+837,ViLlA de lUjo ExCLuSiVA,y - Casa Rural,37.34,4,Madrid,3.8
+838,AparTamEntO reForMADO,x - Loft,128.12,4,Sevilla,
+839,PISo en el centro,x - Loft,85.58,2,Valencia,4.8
+840,ATiCO luMINoso,y - Casa Rural,123.61,2,Barcelona,2.6
+841,LOft visTas AL MAr,y - Villa,147.61,3,Bilbao,2.7
+842,pISO EN El CENtrO,z - Habitacion,92.11,2,Madrid,2.9
+843,Loft vISTAS aL mAr,x - Estudio,52.98,4,Valencia,
+844,AtICo LUMiNOSO,z - Habitacion,133.99,3,Madrid,
+845,caSa tRAdiCIoNal,y - Villa,45.06,2,Valencia,
+846,pISO En El CenTRO,y - Villa,116.79,3,Sevilla,4.0
+847,LOfT viSTAs AL MaR,y - Villa,120.93,4,Barcelona,4.3
+848,pISo eN EL CENTro,z - Habitacion,141.40,2,Sevilla,4.1
+849,eStuDio ACogedor,z - Habitacion,73.16,3,Valencia,3.8
+850,lOFt vistaS AL maR,x - Estudio,148.62,1,Madrid,4.9
+851,estUdIO AcOgEDOr,x - Loft,125.92,4,Bilbao,3.6
+852,aTiCo lUminoSo,x - Apartamento,152.86,1,Valencia,
+853,aPARtAmENTo reFOrmadO,x - Estudio,127.37,1,Bilbao,4.5
+854,aPartAMeNTO ReForMaDO,x - Estudio,86.07,3,Valencia,4.8
+855,pisO EN eL CenTRO,x - Estudio,127.14,2,Barcelona,3.8
+856,piSO En eL CENTrO,x - Loft,177.84,2,Sevilla,3.0
+857,DuplEx MODeRnO,y - Casa Rural,136.77,3,León,2.7
+858,CASA tRADiCIoNAl,x - Apartamento,51.11,2,Madrid,4.6
+859,ViLLa De lUJO exclUSiVA,x - Estudio,139.20,1,Sevilla,3.5
+860,HABITACIOn coMpARTIDA,y - Villa,122.11,1,Madrid,2.6
+861,CHaLET cOn PIscINa,y - Villa,96.49,4,Bilbao,3.9
+862,piSo En el CeNtrO,x - Estudio,162.17,4,Valencia,3.2
+863,eSTudIo ACOGEdOR,x - Loft,150.41,1,León,2.6
+864,aPaRTAmeNTo ReforMaDo,y - Casa Rural,89.97,1,Valencia,3.0
+865,AtIco LUMINOSo,z - Habitacion,81.19,2,Bilbao,
+866,EsTUDIO AcogEdor,z - Habitacion,132.78,3,Valencia,4.6
+867,habItAciOn comPARtiDa,z - Habitacion,99.44,2,Valencia,4.9
+868,vilLA dE LUJO ExClUSIVa,y - Villa,158.26,1,Madrid,4.6
+869,eSTUDiO acOGeDoR,x - Estudio,129.97,1,Bilbao,3.9
+870,Villa de LuJo ExcLUSIVa,y - Casa Rural,86.67,1,Valencia,
+871,vilLA de lujo ExcLuSIVa,x - Estudio,163.36,4,Bilbao,4.6
+872,ATIco lumInOSo,x - Estudio,31.27,4,Valencia,4.3
+873,AParTaMEnto rEfOrMadO,x - Estudio,50.57,1,Madrid,2.7
+874,lOfT ViStaS AL MAr,y - Casa Rural,79.77,1,Barcelona,5.0
+875,HaBitACIon cOmPARTIDa,y - Casa Rural,106.90,2,Sevilla,2.6
+876,HAbItaCIon coMPaRTiDa,y - Villa,142.64,3,Madrid,4.1
+877,ChaLEt CoN PIScinA,z - Habitacion,145.19,4,León,
+878,DuPlEX ModeRNo,y - Casa Rural,36.03,2,Madrid,3.0
+879,eStUDiO ACOGEdOr,z - Habitacion,99.62,3,Barcelona,
+880,VILLa de Lujo ExCluSivA,y - Casa Rural,91.77,2,León,3.3
+881,Atico LUMINOso,y - Casa Rural,120.44,1,Sevilla,3.2
+882,loFT visTAs al mar,x - Loft,49.43,2,Barcelona,4.3
+883,aPaRtAmenTO reFORMAdo,x - Loft,172.11,4,León,2.8
+884,chALET con pISCINA,x - Estudio,176.67,3,Valencia,
+885,dUPlEx mOderNo,z - Habitacion,142.56,4,Barcelona,3.0
+886,APARtaMENto rEFormADo,x - Estudio,158.69,3,Valencia,3.6
+887,DUPLEX MOderNo,z - Habitacion,88.42,2,León,
+888,PIso eN EL CenTrO,x - Loft,98.24,3,Sevilla,3.2
+889,ESTUdiO ACOGEdOR,y - Villa,136.88,3,León,4.9
+890,aTIco LuminOSo,x - Loft,51.25,2,Bilbao,4.3
+891,casA TRaDIcIONAL,y - Villa,88.38,2,Madrid,
+892,Piso en eL CEntRo,y - Casa Rural,102.51,1,Sevilla,2.6
+893,ATicO Luminoso,x - Loft,169.57,4,Barcelona,3.3
+894,apartAmenTO REFormaDO,x - Apartamento,48.38,1,Bilbao,3.8
+895,HaBITACiOn COmpArTIDa,x - Apartamento,159.02,3,Sevilla,
+896,aParTAmENtO rEfOrMaDo,x - Loft,165.83,1,Bilbao,4.6
+897,HaBitACiOn cOMPARTIDa,y - Villa,77.05,2,Bilbao,
+898,vILLa De lujo exCluSiVa,z - Habitacion,82.47,4,León,2.6
+899,Duplex mODerno,y - Villa,42.35,1,León,3.7
+900,cHaLET cON PisCinA,y - Casa Rural,128.58,4,Sevilla,4.8
+901,Atico LuMINOSO,x - Apartamento,136.24,2,Sevilla,
+902,haBiTaciOn ComPaRTiDA,y - Casa Rural,132.96,4,León,4.6
+903,aTIco LUmiNOSo,x - Estudio,111.26,4,Madrid,3.1
+904,LoFT VIsTaS aL MAr,x - Loft,120.00,2,Valencia,
+905,CHalet CoN pIScinA,z - Habitacion,47.94,4,Valencia,3.9
+906,HAbItaCIOn coMPaRtIda,x - Apartamento,162.78,4,Madrid,2.9
+907,aticO LUmInoSO,y - Villa,76.44,4,Valencia,4.6
+908,APArTAmeNTo refORmaDO,y - Casa Rural,104.04,2,Bilbao,3.6
+909,ChAlEt con pisCiNa,x - Apartamento,98.33,1,Bilbao,4.4
+910,pisO eN El CeNtrO,y - Villa,89.70,4,Valencia,3.6
+911,atICo LumINosO,x - Estudio,72.63,2,León,3.4
+912,vIllA de LUJo excLuSivA,z - Habitacion,55.27,1,Madrid,
+913,aPaRTamEnto REfOrMAdo,y - Casa Rural,75.83,4,Valencia,4.3
+914,Duplex mODernO,y - Casa Rural,72.39,4,Bilbao,3.2
+915,LOft viStas AL Mar,x - Apartamento,148.17,3,Sevilla,4.0
+916,ATiCO LUMiNoSo,z - Habitacion,69.14,4,Sevilla,4.6
+917,lofT vIsTAs aL MAR,z - Habitacion,115.16,2,Madrid,4.6
+918,LoFT viSTas AL mAr,y - Casa Rural,56.13,4,Bilbao,4.1
+919,cAsa TRadicioNaL,z - Habitacion,155.26,3,Valencia,4.1
+920,CHalET COn piSCInA,y - Villa,86.79,4,Sevilla,
+921,AtICO lumINoso,y - Villa,152.41,2,Bilbao,4.2
+922,AtiCO lUMINOsO,x - Loft,125.46,1,Barcelona,4.9
+923,habiTacIon CompArtiDA,x - Estudio,44.46,3,León,
+924,PisO EN eL CENtRO,x - Apartamento,50.57,1,Madrid,4.6
+925,ATiCO LumInOsO,z - Habitacion,42.39,3,León,3.0
+926,aTIco LumInOsO,y - Casa Rural,128.22,4,Bilbao,
+927,LOFt VIsTAs al Mar,y - Casa Rural,134.03,3,Madrid,
+928,APARtAmento REFOrMaDo,y - Casa Rural,149.19,3,Sevilla,
+929,PISo En eL CentRo,x - Estudio,111.43,1,Barcelona,3.0
+930,viLla De lUjo eXCLuSivA,z - Habitacion,41.64,1,Valencia,4.9
+931,ChaleT CoN pISCINA,y - Villa,99.02,2,Bilbao,
+932,vILLA de luJO EXclUSiVA,y - Villa,97.95,3,Sevilla,4.6
+933,ViLLA dE lUJo eXcluSIVa,z - Habitacion,126.34,3,Barcelona,3.6
+934,EsTuDIO acoGeDor,x - Loft,37.63,2,Sevilla,3.4
+935,CASA TRAdiCiOnAl,x - Loft,53.12,3,Bilbao,4.2
+936,apaRTaMEnTO rEFORMadO,y - Villa,63.29,3,Bilbao,3.6
+937,PiSo eN eL CEnTrO,x - Loft,174.71,3,León,4.8
+938,AtICo LumiNOso,y - Casa Rural,31.67,1,Bilbao,5.0
+939,HAbitacIOn coMpartiDA,x - Loft,61.12,4,León,4.8
+940,HABiTACIoN CoMPartida,y - Casa Rural,158.72,3,Madrid,
+941,LOFt vistAS al maR,y - Casa Rural,44.45,1,Sevilla,
+942,estUDio AcogeDor,x - Apartamento,130.65,1,León,4.2
+943,HabITAcioN cOMpaRtiDA,x - Apartamento,51.71,1,Madrid,2.5
+944,pIsO EN eL CEnTro,z - Habitacion,132.43,4,Sevilla,4.1
+945,hAbiTACIOn coMpArTida,z - Habitacion,54.40,1,León,3.3
+946,cHalET con piScIna,x - Loft,57.00,2,Madrid,4.9
+947,HAbITAciON cOmpArtIDA,x - Estudio,30.46,3,Sevilla,4.3
+948,caSA tRAdICIonAL,y - Villa,131.90,3,Bilbao,4.4
+949,habiTaCiON CoMPARTiDa,y - Villa,38.29,1,Bilbao,3.9
+950,cHAleT CON PiSCina,z - Habitacion,109.74,2,Valencia,3.5
+951,CAsA TRADiCIONAL,x - Loft,40.87,4,Bilbao,3.7
+952,cAsa TRaDicional,x - Loft,166.79,4,Bilbao,4.6
+953,LOFt vIstas AL MaR,y - Casa Rural,39.76,4,Sevilla,4.4
+954,DUPLEX Moderno,y - Casa Rural,127.17,4,Sevilla,2.6
+955,APArtaMento ReFormAdO,y - Casa Rural,100.03,4,Bilbao,3.3
+956,AtiCo LUMINosO,x - Estudio,45.69,2,Madrid,
+957,aTiCo LUmiNosO,x - Estudio,129.12,2,Madrid,4.9
+958,ChALeT cON piSCIna,y - Villa,165.04,3,León,2.6
+959,chALEt CoN pIScINa,y - Casa Rural,167.28,4,Madrid,2.7
+960,cAsa tRadIcIOnal,z - Habitacion,111.69,4,Barcelona,2.8
+961,ViLla DE luJo exClUSIVA,y - Villa,4147.48,8,Sevilla,
+962,aTICO LuminOso,y - Casa Rural,62.90,1,Barcelona,3.6
+963,pIso EN eL CENTRO,z - Habitacion,136.51,1,Sevilla,2.6
+964,DUPleX mODErNO,x - Loft,104.80,2,Madrid,4.2
+965,ViLLa DE luJO ExCLusIVA,x - Estudio,87.47,3,Madrid,3.2
+966,aTIcO luMInoSo,x - Loft,117.59,3,Madrid,4.5
+967,PisO en el centRo,x - Apartamento,113.93,1,Sevilla,4.6
+968,PIsO EN El Centro,z - Habitacion,65.18,2,León,
+969,casA trAdiCiONal,y - Villa,118.39,2,Bilbao,
+970,chALeT Con PIScINA,x - Estudio,39.22,2,Madrid,4.8
+971,estuDIO AcogeDOR,y - Villa,151.29,3,Barcelona,4.7
+972,haBItacioN COmpartIDa,y - Casa Rural,103.48,4,Barcelona,3.8
+973,CHaLEt COn PiSCiNA,y - Villa,85.57,1,Barcelona,4.1
+974,cASA tRAdiCIONaL,x - Apartamento,98.12,2,Valencia,4.6
+975,cHalet COn PIscInA,x - Apartamento,34.92,4,Barcelona,4.4
+976,villa DE lUjo exCLUSIVA,x - Apartamento,75.98,4,Barcelona,2.5
+977,DuplEx modErno,x - Estudio,155.59,2,Barcelona,4.8
+978,ViLLA de LujO EXCluSIVA,y - Casa Rural,96.07,1,Sevilla,2.8
+979,hABitaCioN ComPARTIda,z - Habitacion,93.80,2,León,4.5
+980,CasA TradiciONaL,y - Casa Rural,160.31,4,Bilbao,
+981,esTudIO AcOGedoR,z - Habitacion,80.37,1,Valencia,2.7
+982,eSTudIo aCoGedoR,y - Casa Rural,127.16,3,Bilbao,
+983,VillA De LUJO ExClusivA,z - Habitacion,149.28,1,Madrid,4.5
+984,HAbItaCION COMpARTIda,x - Estudio,155.82,2,León,2.7
+985,vIllA de LUjO EXcluSIVa,x - Estudio,160.63,3,León,3.6
+986,LoFT VistaS al mAr,y - Casa Rural,128.22,3,Barcelona,4.1
+987,VILla De LUJO EXclUSivA,y - Casa Rural,159.18,3,Madrid,4.0
+988,Atico LumiNOso,y - Villa,92.92,4,Barcelona,3.6
+989,cHAlET CoN PIscIna,y - Villa,170.11,3,Valencia,2.7
+990,dUPLEx MOdERNO,x - Apartamento,156.68,1,León,3.0
+991,hABItAciOn COMparTIDA,x - Apartamento,145.18,3,Barcelona,
+992,ApArtAMEnTo refORMaDO,y - Villa,121.77,2,Sevilla,3.1
+993,aTIcO luMINoSo,y - Casa Rural,168.77,2,Valencia,2.9
+994,ApARTAmEnTO REFORMaDo,x - Loft,63.02,3,León,3.3
+995,hAbItaCION COmpARtidA,x - Estudio,46.10,3,Valencia,
+996,aTIco LuMiNoso,x - Estudio,46.84,1,Valencia,3.8
+997,HabitacIOn COMPArTiDa,z - Habitacion,89.69,4,Madrid,3.9
+998,estudio AcogEDor,x - Apartamento,153.37,1,Sevilla,4.8
+999,HABITaCION coMPArTIDa,z - Habitacion,158.42,3,Sevilla,2.8
+1000,chAleT COn piscIna,x - Loft,74.13,4,Madrid,3.8
