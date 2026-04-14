@@ -1,0 +1,11 @@
+name~!~base_asignada~!~naves_disponibles
+CR90 corvette~!~Base Yavin 4~!~15
+X-wing~!~Base Echo (Hoth)~!~120
+Y-wing~!~Base Echo (Hoth)~!~45 naves
+Millennium Falcon~!~Flota Nómada~!~1
+A-wing~!~Base Endor~!~Error de sensor
+Rebel transport~!~Punto de encuentro~!~Ocho
+B-wing~!~Astillero Sullust~!~30
+EF76 Nebulon-B escort frigate~!~Flota Nómada~!~4
+Calamari Cruiser~!~Órbita Mon Cala~!~Desconocido
+Star Destroyer~!~Hangar Secreto (Capturado)~!~2
