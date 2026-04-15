@@ -1,0 +1,112 @@
+[
+    {
+        "Playa": "Raco de l'Albir",
+        "Estado Cielo": "despejado",
+        "Viento": "flojo",
+        "Oleaje": "moderado",
+        "Temperatura Maxima": 20,
+        "Sensacion Termica": "suave",
+        "Temperatura Agua": 16,
+        "UV Maximo": 6,
+        "Fecha": 1776124800000
+    },
+    {
+        "Playa": "Sant Joan \/ San Juan",
+        "Estado Cielo": "despejado",
+        "Viento": "flojo",
+        "Oleaje": "moderado",
+        "Temperatura Maxima": 20,
+        "Sensacion Termica": "suave",
+        "Temperatura Agua": 16,
+        "UV Maximo": 6,
+        "Fecha": 1776124800000
+    },
+    {
+        "Playa": "El Postiguet",
+        "Estado Cielo": "despejado",
+        "Viento": "flojo",
+        "Oleaje": "moderado",
+        "Temperatura Maxima": 21,
+        "Sensacion Termica": "suave",
+        "Temperatura Agua": 15,
+        "UV Maximo": 6,
+        "Fecha": 1776124800000
+    },
+    {
+        "Playa": "Saladar",
+        "Estado Cielo": "despejado",
+        "Viento": "flojo",
+        "Oleaje": "moderado",
+        "Temperatura Maxima": 21,
+        "Sensacion Termica": "suave",
+        "Temperatura Agua": 15,
+        "UV Maximo": 6,
+        "Fecha": 1776124800000
+    },
+    {
+        "Playa": "La Roda",
+        "Estado Cielo": "despejado",
+        "Viento": "flojo",
+        "Oleaje": "moderado",
+        "Temperatura Maxima": 21,
+        "Sensacion Termica": "suave",
+        "Temperatura Agua": 16,
+        "UV Maximo": 6,
+        "Fecha": 1776124800000
+    },
+    {
+        "Playa": "Cap Blanch",
+        "Estado Cielo": "despejado",
+        "Viento": "flojo",
+        "Oleaje": "moderado",
+        "Temperatura Maxima": 21,
+        "Sensacion Termica": "suave",
+        "Temperatura Agua": 16,
+        "UV Maximo": 6,
+        "Fecha": 1776124800000
+    },
+    {
+        "Playa": "Llevant \/ Playa de Levante",
+        "Estado Cielo": "despejado",
+        "Viento": "flojo",
+        "Oleaje": "d\u00e9bil",
+        "Temperatura Maxima": 19,
+        "Sensacion Termica": "fresco",
+        "Temperatura Agua": 15,
+        "UV Maximo": 6,
+        "Fecha": 1776124800000
+    },
+    {
+        "Playa": "Ponent \/ Playa de Poniente",
+        "Estado Cielo": "despejado",
+        "Viento": "flojo",
+        "Oleaje": "moderado",
+        "Temperatura Maxima": 19,
+        "Sensacion Termica": "fresco",
+        "Temperatura Agua": 16,
+        "UV Maximo": 6,
+        "Fecha": 1776124800000
+    },
+    {
+        "Playa": "Cala Fustera",
+        "Estado Cielo": "despejado",
+        "Viento": "moderado",
+        "Oleaje": "moderado",
+        "Temperatura Maxima": 21,
+        "Sensacion Termica": "suave",
+        "Temperatura Agua": 16,
+        "UV Maximo": 6,
+        "Fecha": 1776124800000
+    },
+    {
+        "Playa": "La Fossa",
+        "Estado Cielo": "despejado",
+        "Viento": "moderado",
+        "Oleaje": "moderado",
+        "Temperatura Maxima": 21,
+        "Sensacion Termica": "suave",
+        "Temperatura Agua": 16,
+        "UV Maximo": 6,
+        "Fecha": 1776124800000
+    }
+]
